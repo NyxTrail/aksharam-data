@@ -11,7 +11,7 @@
 	},
 	"hindi": {
 	    "en": "<h2>Hindi</h2><h3>Vowels</h3><p>Malayalam has a short (എ, ഒ) and long (ഏ, ഓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Malayalam to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Hindi. The Malayalam character ള is transcribed to ळ in Hindi. Further, the Unicode specification for Devanagiri includes additional characters for transcribing Dravidian languages. The app uses these for transcribing the additional characters in Malayalam. Hence, the Malayalam റ and ഴ are transcribed to ऱ and ऴ.<br/><h3>Chillu Letters</h3>The half-consonants न्, ण्, ल्, ळ् and र् are represented by the distinct characters ൻ, ൺ, ൽ, ൾ and ർ (called chillaksharam).</p>"
-	},
+	}
     },
     "randomise_ligatures": false,
     "data": {

@@ -11,7 +11,7 @@
 	},
 	"hindi": {
 	    "en": "<h1>Hindi</h1><h2>Vowels</h2><p>Kannada has a short (ಎ, ಒ) and long (ಏ, ಓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Kannada to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p>"
-	},
+	}
     },
     "randomise_ligatures": true,
     "data": {
