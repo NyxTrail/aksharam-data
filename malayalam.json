@@ -1,472 +1,995 @@
 {
-  "comment": "Transliteration data for Malayalam. Order matters - within each type as well as among the types",
-  "code": "ml",
-  "trans_langs": [{"kannada": "ka"}, {"hindi": "hi"}],
-  "randomise_ligatures": false,
-  "data": {
-    "അ": {
-      "ka": ["ಅ"],
-      "hi": ["अ"],
-      "type": "vowels"
-    },
-    "ആ": {
-      "ka": ["ಆ"],
-      "hi": ["आ"],
-      "type": "vowels"
-    },
-    "ഇ": {
-      "ka": ["ಇ"],
-      "hi": ["इ"],
-      "type": "vowels"
-    },
-    "ഈ": {
-      "ka": ["ಈ"],
-      "hi": ["ई"],
-      "type": "vowels"
-    },
-    "ഉ": {
-      "ka": ["ಉ"],
-      "hi": ["उ"],
-      "type": "vowels"
-    },
-    "ഊ": {
-      "ka": ["ಊ"],
-      "hi": ["ऊ"],
-      "type": "vowels"
-    },
-    "ഋ": {
-      "ka": ["ಋ"],
-      "hi": ["ऋ"],
-      "type": "vowels"
-    },
-    "എ": {
-      "ka": ["ಎ"],
-      "hi": ["ए"],
-      "type": "vowels"
-    },
-    "ഏ": {
-      "ka": ["ಏ"],
-      "hi": ["ए"],
-      "type": "vowels"
-    },
-    "ഐ": {
-      "ka": ["ಐ"],
-      "hi": ["ऐ"],
-      "type": "vowels"
-    },
-    "ഒ": {
-      "ka": ["ಒ"],
-      "hi": ["ओ"],
-      "type": "vowels"
-    },
-    "ഓ": {
-      "ka": ["ಓ"],
-      "hi": ["ओ"],
-      "type": "vowels"
-    },
-    "ഔ": {
-      "ka": ["ಔ"],
-      "hi": ["औ"],
-      "type": "vowels"
-    },
-    "അം": {
-      "ka": ["ಅಂ"],
-      "hi": ["अं"],
-      "type": "vowels"
-    },
-    "അഃ": {
-      "ka": ["ಅಃ"],
-      "hi": ["अः"],
-      "type": "vowels"
-    },
-    "ക": {
-      "ka": ["ಕ"],
-      "hi": ["क"],
-      "type": "consonants"
-    },
-    "ഖ": {
-      "ka": ["ಖ"],
-      "hi": ["ख"],
-      "type": "consonants"
-    },
-    "ഗ": {
-      "ka": ["ಗ"],
-      "hi": ["ग"],
-      "type": "consonants"
-    },
-    "ഘ": {
-      "ka": ["ಘ"],
-      "hi": ["घ"],
-      "type": "consonants"
-    },
-    "ങ": {
-      "ka": ["ಙ"],
-      "hi": ["ङ"],
-      "type": "consonants"
-    },
-    "ച": {
-      "ka": ["ಚ"],
-      "hi": ["च"],
-      "type": "consonants"
-    },
-    "ഛ": {
-      "ka": ["ಛ"],
-      "hi": ["छ"],
-      "type": "consonants"
-    },
-    "ജ": {
-      "ka": ["ಜ"],
-      "hi": ["ज"],
-      "type": "consonants"
-    },
-    "ഝ": {
-      "ka": ["ಝ"],
-      "hi": ["झ"],
-      "type": "consonants"
-    },
-    "ഞ": {
-      "ka": ["ಞ"],
-      "hi": ["ञ"],
-      "type": "consonants"
-    },
-    "ട": {
-      "ka": ["ಟ"],
-      "hi": ["ट"],
-      "type": "consonants"
-    },
-    "ഠ": {
-      "ka": ["ಠ"],
-      "hi": ["ठ"],
-      "type": "consonants"
-    },
-    "ഡ": {
-      "ka": ["ಡ"],
-      "hi": ["ड"],
-      "type": "consonants"
-    },
-    "ഢ": {
-      "ka": ["ಢ"],
-      "hi": ["ढ"],
-      "type": "consonants"
-    },
-    "ണ": {
-      "ka": ["ಣ"],
-      "hi": ["ण"],
-      "type": "consonants"
-    },
-    "ത": {
-      "ka": ["ತ"],
-      "hi": ["त"],
-      "type": "consonants"
-    },
-    "ഥ": {
-      "ka": ["ಥ"],
-      "hi": ["थ"],
-      "type": "consonants"
-    },
-    "ദ": {
-      "ka": ["ದ"],
-      "hi": ["द"],
-      "type": "consonants"
-    },
-    "ധ": {
-      "ka": ["ಧ"],
-      "hi": ["ध"],
-      "type": "consonants"
-    },
-    "ന": {
-      "ka": ["ನ"],
-      "hi": ["न"],
-      "type": "consonants"
-    },
-    "പ": {
-      "ka": ["ಪ"],
-      "hi": ["प"],
-      "type": "consonants"
-    },
-    "ഫ": {
-      "ka": ["ಫ"],
-      "hi": ["फ"],
-      "type": "consonants"
-    },
-    "ബ": {
-      "ka": ["ಬ"],
-      "hi": ["ब"],
-      "type": "consonants"
-    },
-    "ഭ": {
-      "ka": ["ಭ"],
-      "hi": ["भ"],
-      "type": "consonants"
-    },
-    "മ": {
-      "ka": ["ಮ"],
-      "hi": ["म"],
-      "type": "consonants"
-    },
-    "യ": {
-      "ka": ["ಯ"],
-      "hi": ["य"],
-      "type": "consonants"
-    },
-    "ര": {
-      "ka": ["ರ"],
-      "hi": ["र"],
-      "type": "consonants"
-    },
-    "റ": {
-      "ka": ["ಱ"],
-      "hi": ["ऱ"],
-      "type": "consonants"
-    },
-    "ല": {
-      "ka": ["ಲ"],
-      "hi": ["ल"],
-      "type": "consonants"
-    },
-    "ള": {
-      "ka": ["ಳ"],
-      "hi": ["ळ"],
-      "type": "consonants"
-    },
-    "ഴ": {
-      "ka": ["ಳ"],
-      "hi": ["ऴ"],
-      "type": "consonants"
-    },
-    "വ": {
-      "ka": ["ವ"],
-      "hi": ["व"],
-      "type": "consonants"
-    },
-    "ശ": {
-      "ka": ["ಶ"],
-      "hi": ["श"],
-      "type": "consonants"
-    },
-    "ഷ": {
-      "ka": ["ಷ"],
-      "hi": ["ष"],
-      "type": "consonants"
-    },
-    "സ": {
-      "ka": ["ಸ"],
-      "hi": ["स"],
-      "type": "consonants"
-    },
-    "ഹ": {
-      "ka": ["ಹ"],
-      "hi": ["ह"],
-      "type": "consonants"
-    },
-    "ം": {
-      "ka": ["ಂ"],
-      "hi": ["ं"],
-      "type": "signs"
-    },
-    "ഃ": {
-      "ka": ["ಃ"],
-      "hi": ["ः"],
-      "type": "signs"
-    },
-    "ാ": {
-      "ka": ["ಾ"],
-      "hi": ["ा"],
-      "type": "signs"
-    },
-    "ി": {
-      "ka": ["ಿ"],
-      "hi": ["ि"],
-      "type": "signs"
-    },
-    "ീ": {
-      "ka": ["ೀ"],
-      "hi": ["ी"],
-      "type": "signs"
-    },
-    "ു": {
-      "ka": ["ು"],
-      "hi": ["ु"],
-      "type": "signs"
-    },
-    "ൂ": {
-      "ka": ["ೂ"],
-      "hi": ["ू"],
-      "type": "signs"
-    },
-    "ൃ": {
-      "ka": ["ೃ"],
-      "hi": ["ृ"],
-      "type": "signs"
-    },
-    "െ": {
-      "ka": ["ೆ"],
-      "hi": ["े"],
-      "type": "signs"
-    },
-    "േ": {
-      "ka": ["ೇ"],
-      "hi": ["े"],
-      "type": "signs"
-    },
-    "ൈ": {
-      "ka": ["ೈ"],
-      "hi": ["ै"],
-      "type": "signs"
-    },
-    "ൊ": {
-      "ka": ["ೊ"],
-      "hi": ["ो"],
-      "type": "signs"
-    },
-    "ോ": {
-      "ka": ["ೋ"],
-      "hi": ["ो"],
-      "type": "signs"
-    },
-    "ൌ": {
-      "ka": ["ೌ"],
-      "hi": ["ौ"],
-      "type": "signs"
-    },
-    "്": {
-      "ka": ["್"],
-      "hi": ["्"],
-      "type": "signs",
-      "isVirama": true
-    },
-    "ൺ": {
-      "ka": ["ಣ್"],
-      "hi": ["ण्"],
-      "type": "chillu"
-    },
-    "ൻ": {
-      "ka": ["ನ್"],
-      "hi": ["न्"],
-      "type": "chillu"
-    },
-    "ർ": {
-      "ka": ["ಱ್"],
-      "hi": ["ऱ्"],
-      "type": "chillu"
-    },
-    "ൽ": {
-      "ka": ["ಲ್"],
-      "hi": ["ल्"],
-      "type": "chillu"
-    },
-    "ൾ": {
-      "ka": ["ಳ್"],
-      "hi": ["ळ्"],
-      "type": "chillu"
-    },
-    "ക്ക": {
-      "type": "ligatures"
-    },
-    "ച്ച": {
-      "type": "ligatures"
-    },
-    "ജ്ജ": {
-      "type": "ligatures"
-    },
-    "ത്ത": {
-      "type": "ligatures"
-    },
-    "മ്മ": {
-      "type": "ligatures"
-    },
-    "ന്ന": {
-      "type": "ligatures"
-    },
-    "ട്ട": {
-      "type": "ligatures"
-    },
-    "പ്പ": {
-      "type": "ligatures"
-    },
-    "ല്ല": {
-      "type": "ligatures"
-    },
-    "ള്ള": {
-      "type": "ligatures"
-    },
-    "ഞ്ഞ": {
-      "type": "ligatures"
-    },
-    "ണ്ണ": {
-      "type": "ligatures"
-    },
-    "ങ്ങ": {
-      "type": "ligatures"
-    },
-    "യ്യ": {
-      "type": "ligatures"
-    },
-    "ങ്ക": {
-      "type": "ligatures"
-    },
-    "മ്പ": {
-      "type": "ligatures"
-    },
-    "ക്ഷ": {
-      "type": "ligatures"
-    },
-    "ഞ്ജ": {
-      "type": "ligatures"
-    },
-    "ഞ്ച": {
-      "type": "ligatures"
-    },
-    "ണ്ട": {
-      "type": "ligatures"
-    },
-    "ന്ത": {
-      "type": "ligatures"
-    },
-    "ജ്ഞ": {
-      "type": "ligatures"
-    },
-    "ക്വ": {
-      "type": "ligatures"
-    },
-    "ത്വ": {
-      "type": "ligatures"
-    },
-    "പ്വ": {
-      "type": "ligatures"
-    },
-    "പ്ല": {
-      "type": "ligatures"
-    },
-    "ക്ല": {
-      "type": "ligatures"
-    },
-    "ശ്ല": {
-      "type": "ligatures"
-    },
-    "ക്യ": {
-      "type": "ligatures"
-    },
-    "പ്യ": {
-      "type": "ligatures"
-    },
-    "ത്യ": {
-      "type": "ligatures"
-    },
-    "ത്ര": {
-      "type": "ligatures"
-    },
-    "ക്ര": {
-      "type": "ligatures"
-    },
-    "പ്ര": {
-      "type": "ligatures"
-    },
-    "റ്റ": {
-      "type": "ligatures"
-    },
-    "ന്റ": {
-      "type": "ligatures"
+    "comment": "Transliteration data for Malayalam. Order matters - within each type as well as among the types",
+    "code": "ml",
+    "trans_langs": [{"kannada": "ka"}, {"hindi": "hi"}],
+    "randomise_ligatures": false,
+    "data": {
+	"അ": {
+	    "ka": ["ಅ"],
+	    "hi": ["अ"],
+	    "examples": {
+		"അമ്മ": {
+		    "en": "mom, mother",
+		    "hi": "माँ",
+		    "ka": "ತಾಯಿ"
+		},
+		"അത്": {
+		    "en": "that",
+		    "hi": "वह",
+		    "ka": "ಅದು"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ആ": {
+	    "ka": ["ಆ"],
+	    "hi": ["आ"],
+	    "examples": {
+		"ആമ": {
+		    "en": "tortoise",
+		    "hi": "कछुआ",
+		    "ka": "ಆಮೆ"
+		},
+		"ആന": {
+		    "en": "elephant",
+		    "hi": "हाथी",
+		    "ka": "ಆನೆ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഇ": {
+	    "ka": ["ಇ"],
+	    "hi": ["इ"],
+	    "examples": {
+		"ഇല": {
+		    "en": "leaf",
+		    "hi": "पत्ता",
+		    "ka": "ಎಲೆ"
+		},
+		"ഇപ്പോൾ": {
+		    "en": "now",
+		    "hi": "अब",
+		    "ka": "ಈಗ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഈ": {
+	    "ka": ["ಈ"],
+	    "hi": ["ई"],
+	    "examples": {
+		"ഈച്ച": {
+		    "en": "house fly",
+		    "hi": "मक्खी",
+		    "ka": "ನೊಣ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഉ": {
+	    "ka": ["ಉ"],
+	    "hi": ["उ"],
+	    "examples": {
+		"ഉപ്പ്": {
+		    "en": "salt",
+		    "hi": "नमक",
+		    "ka": "ಉಪ್ಪು"
+		},
+		"ഉത്തരം": {
+		    "en": "answer",
+		    "hi": "उत्तर",
+		    "ka": "ಉತ್ತರ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഊ": {
+	    "ka": ["ಊ"],
+	    "hi": ["ऊ"],
+	    "examples": {
+		"ഊണ്": {
+		    "en": "salt",
+		    "hi": "नमक",
+		    "ka": "ಉಪ್ಪು"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഋ": {
+	    "ka": ["ಋ"],
+	    "hi": ["ऋ"],
+	    "examples": {
+		"ഋഷി": {
+		    "en": "a saint, an ascetic",
+		    "hi": "ऋषि",
+		    "ka": "ಋಷಿ"
+		},
+		"ഋതു": {
+		    "en": "season",
+		    "hi": "ऋतु",
+		    "ka": "ಋತು"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"എ": {
+	    "ka": ["ಎ"],
+	    "hi": ["ए"],
+	    "examples": {
+		"എണ്ണ": {
+		    "en": "oil",
+		    "hi": "तेल",
+		    "ka": "ಎಣ್ಣೆ"
+		},
+		"എലി": {
+		    "en": "rat",
+		    "hi": "चूहा",
+		    "ka": "ಇಲಿ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഏ": {
+	    "ka": ["ಏ"],
+	    "hi": ["ए"],
+	    "examples": {
+		"ഏണി": {
+		    "en": "ladder",
+		    "hi": "तेल",
+		    "ka": "ಎಣ್ಣೆ"
+		},
+		"ഏക": {
+		    "en": "unitary, pertaining to the number one",
+		    "hi": "संख्या एक से संबंधित",
+		    "ka": "ಏಕ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഐ": {
+	    "ka": ["ಐ"],
+	    "hi": ["ऐ"],
+	    "examples": {
+		"ഐരാവതം": {
+		    "en": "Indra's elephant according to myth",
+		    "hi": "ऐरावत",
+		    "ka": "ಐರಾಬತ"
+		},
+		"ഐതിഹ്യം": {
+		    "en": "legend",
+		    "hi": "ऐतिह्य",
+		    "ka": "ಐತಿಹ್ಯ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഒ": {
+	    "ka": ["ಒ"],
+	    "hi": ["ओ"],
+	    "examples": {
+		"ഒന്ന്": {
+		    "en": "one",
+		    "hi": "एक",
+		    "ka": "ಒಂದು"
+		},
+		"ഒച്ച്": {
+		    "en": "snail",
+		    "hi": "घोंघा",
+		    "ka": "ಶಂಬುಕ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഓ": {
+	    "ka": ["ಓ"],
+	    "hi": ["ओ"],
+	    "examples": {
+		"ഓടുക": {
+		    "en": "to run",
+		    "hi": "भागना",
+		    "ka": "ಓಡು"
+		},
+		"ഓർമ": {
+		    "en": "memory",
+		    "hi": "याददाश्त",
+		    "ka": "ಸ್ಮರಣೆ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"ഔ": {
+	    "ka": ["ಔ"],
+	    "hi": ["औ"],
+	    "examples": {
+		"ഔഷധം": {
+		    "en": "medicine",
+		    "hi": "औषध",
+		    "ka": "ಔಷಧ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"അം": {
+	    "ka": ["ಅಂ"],
+	    "hi": ["अं"],
+	    "examples": {
+		"അംശം": {
+		    "en": "part, fraction",
+		    "hi": "अंश, खंड",
+		    "ka": "ಅಂಶ, ಖಂಡ"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"അഃ": {
+	    "ka": ["ಅಃ"],
+	    "hi": ["अः"],
+	    "type": "vowels"
+	},
+	"ക": {
+	    "ka": ["ಕ"],
+	    "hi": ["क"],
+	    "examples": {
+		"കരടി": {
+		    "en": "bear",
+		    "hi": "भालू",
+		    "ka": "ಕರಡಿ"
+		},
+		"കാൽ": {
+		    "en": "leg",
+		    "hi": "पैर",
+		    "ka": "ಕಾಲು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഖ": {
+	    "ka": ["ಖ"],
+	    "hi": ["ख"],
+	    "examples": {
+		"ഖനി": {
+		    "en": "mine",
+		    "hi": "खनि",
+		    "ka": "ಖನಿ"
+		},
+		"ഖ്യാതി": {
+		    "en": "fame",
+		    "hi": "ख्याति",
+		    "ka": "ಖ್ಯಾತಿ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഗ": {
+	    "ka": ["ಗ"],
+	    "hi": ["ग"],
+	    "examples": {
+		"ഗദ": {
+		    "en": "mace",
+		    "hi": "गदा",
+		    "ka": "ಗದೆ"
+		},
+		"ഗുണം": {
+		    "en": "quality, property",
+		    "hi": "गुण",
+		    "ka": "ಗುಣ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഘ": {
+	    "ka": ["ಘ"],
+	    "hi": ["घ"],
+	    "examples": {
+		"ഘടികാരം": {
+		    "en": "clock",
+		    "hi": "घड़ी",
+		    "ka": "ಗಡಿಯಾರ"
+		},
+		"ഘടകം": {
+		    "en": "part of a whole",
+		    "hi": "घटक",
+		    "ka": "ಘಟಕ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ങ": {
+	    "ka": ["ಙ"],
+	    "hi": ["ङ"],
+	    "examples": {
+		"കുരങ്ങ്": {
+		    "en": "monkey",
+		    "hi": "बंदर",
+		    "ka": "ಕೋತಿ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ച": {
+	    "ka": ["ಚ"],
+	    "hi": ["च"],
+	    "examples": {
+		"ചന്ദ്രൻ": {
+		    "en": "moon",
+		    "hi": "चंद्र",
+		    "ka": "ಚಂದ್ರ"
+		},
+		"ചക്രം": {
+		    "en": "wheel",
+		    "hi": "चक्र",
+		    "ka": "ಚಕ್ರ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഛ": {
+	    "ka": ["ಛ"],
+	    "hi": ["छ"],
+	    "examples": {
+		"ഛായ": {
+		    "en": "shadow",
+		    "hi": "छाया",
+		    "ka": "ಛಾಯೆ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ജ": {
+	    "ka": ["ಜ"],
+	    "hi": ["ज"],
+	    "examples": {
+		"ജനം": {
+		    "en": "people",
+		    "hi": "जन, लोग",
+		    "ka": "ಜನ"
+		},
+		"ജലം": {
+		    "en": "water",
+		    "hi": "जल",
+		    "ka": "ಜಲ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഝ": {
+	    "ka": ["ಝ"],
+	    "hi": ["झ"],
+	    "examples": {
+		"ഝഷം": {
+		    "en": "fish",
+		    "hi": "झष, मछली",
+		    "ka": "ಝಷ, ಮೀನು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഞ": {
+	    "ka": ["ಞ"],
+	    "hi": ["ञ"],
+	    "examples": {
+		"ഞാൻ": {
+		    "en": "me, I",
+		    "hi": "मैं",
+		    "ka": "ನಾನು"
+		},
+		"ഞങ്ങൾ": {
+		    "en": "we, us",
+		    "hi": "हम",
+		    "ka": "ನಾವು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ട": {
+	    "ka": ["ಟ"],
+	    "hi": ["ट"],
+	    "examples": {
+		"കുട": {
+		    "en": "umbrella",
+		    "hi": "छतरी, छाता",
+		    "ka": "ಛತ್ರಿ"
+		},
+		"പടം": {
+		    "en": "picture",
+		    "hi": "चित्र, तस्वीर",
+		    "ka": "ಚಿತ್ರ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഠ": {
+	    "ka": ["ಠ"],
+	    "hi": ["ठ"],
+	    "examples": {
+		"പാഠം": {
+		    "en": "to read, lesson",
+		    "hi": "पढना, पाठ",
+		    "ka": "ಪಾಠ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഡ": {
+	    "ka": ["ಡ"],
+	    "hi": ["ड"],
+	    "examples": {
+		"ഡമരു": {
+		    "en": "a type of drum",
+		    "hi": "डमरु",
+		    "ka": "ಡಮರ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഢ": {
+	    "ka": ["ಢ"],
+	    "hi": ["ढ"],
+	    "type": "consonants"
+	},
+	"ണ": {
+	    "ka": ["ಣ"],
+	    "hi": ["ण"],
+	    "examples": {
+		"ബാണം": {
+		    "en": "arrow",
+		    "hi": "बाण, तीर, शर",
+		    "ka": "ಬಾಣ, ಶರ, ಅಸ್ತ್ರ"
+		},
+		"തോണി": {
+		    "en": "a boat",
+		    "hi": "नाव",
+		    "ka": "ದೋಣಿ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ത": {
+	    "ka": ["ತ"],
+	    "hi": ["त"],
+	    "examples": {
+		"തോണി": {
+		    "en": "a boat",
+		    "hi": "नाव",
+		    "ka": "ದೋಣಿ"
+		},
+		"തൊഴി": {
+		    "en": "kick",
+		    "hi": "लात",
+		    "ka": "ಒದೆ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഥ": {
+	    "ka": ["ಥ"],
+	    "hi": ["थ"],
+	    "examples": {
+		"കഥ": {
+		    "en": "story",
+		    "hi": "कहानी",
+		    "ka": "ಕಥೆ"
+		},
+		"പഥം": {
+		    "en": "way, path",
+		    "hi": "पथ, रास्ता",
+		    "ka": "ಹಾದಿ, ರಸ್ತೆ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ദ": {
+	    "ka": ["ದ"],
+	    "hi": ["द"],
+	    "examples": {
+		"ദയ": {
+		    "en": "kindness",
+		    "hi": "दया",
+		    "kn": "ದಯೆ"
+		},
+		"ദാനം": {
+		    "en": "donation",
+		    "hi": "दान",
+		    "kn": "ದೇಣಿಗ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ധ": {
+	    "ka": ["ಧ"],
+	    "hi": ["ध"],
+	    "examples": {
+		"ധനം": {
+		    "en": "money, wealth",
+		    "hi": "धन",
+		    "ka": "ಧನ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ന": {
+	    "ka": ["ನ"],
+	    "hi": ["न"],
+	    "examples": {
+		"നാല്": {
+		    "en": "four",
+		    "hi": "चार",
+		    "ka": "ನಾಲ್ಕು"
+		},
+		"നീ": {
+		    "en": "you",
+		    "hi": "तुम",
+		    "ka": "ನೀನು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"പ": {
+	    "ka": ["ಪ"],
+	    "hi": ["प"],
+	    "examples" : {
+		"പദം": {
+		    "en": "word",
+		    "hi": "पद, शब्द",
+		    "ka": "ಶಬ್ದ"
+		},
+		"പടം": {
+		    "en": "picture",
+		    "hi": "चित्र, तस्वीर",
+		    "ka": "ಚಿತ್ರ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഫ": {
+	    "ka": ["ಫ"],
+	    "hi": ["फ"],
+	    "examples": {
+		"ഫലം": {
+		    "en": "fruit",
+		    "hi": "फल",
+		    "ka": "ಫಲ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ബ": {
+	    "ka": ["ಬ"],
+	    "hi": ["ब"],
+	    "examples": {
+		"ബലം": {
+		    "en": "force",
+		    "hi": "बल",
+		    "ka": "ಬಲ"
+		},
+		"ബുദ്ധി": {
+		    "en": "intellect, intelligence",
+		    "hi": "बुद्धि",
+		    "ka": "ಬುದ್ಧಿ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഭ": {
+	    "ka": ["ಭ"],
+	    "hi": ["भ"],
+	    "examples": {
+		"ഭയം": {
+		    "en": "fear",
+		    "hi": "डर, भय",
+		    "ka": "ಭಯ"
+		},
+		"ഭൂമി": {
+		    "en": "earth",
+		    "hi": "भूमि",
+		    "ka": "ಭೂಮಿ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"മ": {
+	    "ka": ["ಮ"],
+	    "hi": ["म"],
+	    "examples": {
+		"മല": {
+		    "en": "hill",
+		    "hi": "पहाड़",
+		    "ka": "ಬೆಟ್ಟ"
+		},
+		"മരം": {
+		    "en": "tree",
+		    "hi": "पेड़",
+		    "ka": "ಮರ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"യ": {
+	    "ka": ["ಯ"],
+	    "hi": ["य"],
+	    "examples": {
+		"യാത്ര": {
+		    "en": "journey, travel",
+		    "hi": "यात्रा",
+		    "ka": "ಯಾತ್ರೆ"
+		},
+		"യന്ത്രം": {
+		    "en": "machine",
+		    "hi": "यन्त्र",
+		    "ka": "ಯಂತ್ರ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ര": {
+	    "ka": ["ರ"],
+	    "hi": ["र"],
+	    "examples": {
+		"രാത്രി": {
+		    "en": "night",
+		    "hi": "रात, रात्रि",
+		    "ka": "ಇರುಳು"
+		},
+		"രക്തം": {
+		    "en": "blood",
+		    "hi": "खून, रक्त",
+		    "ka": "ರಕ್ತ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"റ": {
+	    "ka": ["ಱ"],
+	    "hi": ["ऱ"],
+	    "examples": {
+		"റാണി": {
+		    "en": "queen",
+		    "hi": "रानी",
+		    "ka": "ರಾಣಿ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ല": {
+	    "ka": ["ಲ"],
+	    "hi": ["ल"],
+	    "examples": {
+		"ലോകം": {
+		    "en": "world",
+		    "hi": "संसार, लोक",
+		    "ka": "ಲೋಕ"
+		},
+		"ലജ്ജ": {
+		    "en": "bashful, shame",
+		    "hi": "लज्जा",
+		    "ka": "ಲಜ್ಜೆ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ള": {
+	    "ka": ["ಳ"],
+	    "hi": ["ळ"],
+	    "examples": {
+		"കുളം": {
+		    "en": "pond",
+		    "hi": "तालाब",
+		    "ka": "ಕೊಳ"
+		},
+		"കാള": {
+		    "en": "bull",
+		    "hi": "सॉंड",
+		    "ka": "ಎತ್ತು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഴ": {
+	    "ka": ["ಳ"],
+	    "hi": ["ऴ"],
+	    "examples": {
+		"മഴ": {
+		    "en": "rain",
+		    "hi": "बारिश",
+		    "ka": "ಮಳೆ"
+		},
+		"പഴം": {
+		    "en": "fruit",
+		    "hi": "फल",
+		    "ka": "ಹಣ್ಣು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"വ": {
+	    "ka": ["ವ"],
+	    "hi": ["व"],
+	    "examples": {
+		"വസ്ത്രം": {
+		    "en": "cloth",
+		    "hi": "कपड़े",
+		    "ka": "ಬಟ್ಟೆ"
+		},
+		"വെള്ളം": {
+		    "en": "water",
+		    "hi": "पानि",
+		    "ka": "ನೀರು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ശ": {
+	    "ka": ["ಶ"],
+	    "hi": ["श"],
+	    "examples": {
+		"ശലഭം": {
+		    "en": "butterfly",
+		    "hi": "पतंगा",
+		    "ka": "ಪತಂಗ"
+		},
+		"ശ്വാസം": {
+		    "en": "breath",
+		    "hi": "सॉंस",
+		    "ka": "ಶ್ವಾಸ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഷ": {
+	    "ka": ["ಷ"],
+	    "hi": ["ष"],
+	    "examples": {
+		"ഷഡ്ജം": {
+		    "en": "a musical note",
+		    "hi": "षड्ज",
+		    "ka": "ಷಡ್ಜ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"സ": {
+	    "ka": ["ಸ"],
+	    "hi": ["स"],
+	    "examples": {
+		"സമയം": {
+		    "en": "time",
+		    "hi": "समय",
+		    "ka": "ಸಮಯ"
+		},
+		"സിംഹം": {
+		    "en": "a lion",
+		    "hi": "शेर",
+		    "ka": "ಸಿಂಹ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ഹ": {
+	    "ka": ["ಹ"],
+	    "hi": ["ह"],
+	    "examples": {
+		"ഹംസം": {
+		    "en": "a swan",
+		    "hi": "हंस",
+		    "ka": "ಹಂಸ"
+		},
+		"ഹൃദയം": {
+		    "en": "heart",
+		    "hi": "हृदय",
+		    "ka": "ಹೃದಯ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ം": {
+	    "ka": ["ಂ"],
+	    "hi": ["ं"],
+	    "type": "signs"
+	},
+	"ഃ": {
+	    "ka": ["ಃ"],
+	    "hi": ["ः"],
+	    "type": "signs"
+	},
+	"ാ": {
+	    "ka": ["ಾ"],
+	    "hi": ["ा"],
+	    "type": "signs"
+	},
+	"ി": {
+	    "ka": ["ಿ"],
+	    "hi": ["ि"],
+	    "type": "signs"
+	},
+	"ീ": {
+	    "ka": ["ೀ"],
+	    "hi": ["ी"],
+	    "type": "signs"
+	},
+	"ു": {
+	    "ka": ["ು"],
+	    "hi": ["ु"],
+	    "type": "signs"
+	},
+	"ൂ": {
+	    "ka": ["ೂ"],
+	    "hi": ["ू"],
+	    "type": "signs"
+	},
+	"ൃ": {
+	    "ka": ["ೃ"],
+	    "hi": ["ृ"],
+	    "type": "signs"
+	},
+	"െ": {
+	    "ka": ["ೆ"],
+	    "hi": ["े"],
+	    "type": "signs"
+	},
+	"േ": {
+	    "ka": ["ೇ"],
+	    "hi": ["े"],
+	    "type": "signs"
+	},
+	"ൈ": {
+	    "ka": ["ೈ"],
+	    "hi": ["ै"],
+	    "type": "signs"
+	},
+	"ൊ": {
+	    "ka": ["ೊ"],
+	    "hi": ["ो"],
+	    "type": "signs"
+	},
+	"ോ": {
+	    "ka": ["ೋ"],
+	    "hi": ["ो"],
+	    "type": "signs"
+	},
+	"ൌ": {
+	    "ka": ["ೌ"],
+	    "hi": ["ौ"],
+	    "type": "signs"
+	},
+	"്": {
+	    "ka": ["್"],
+	    "hi": ["्"],
+	    "type": "signs",
+	    "isVirama": true
+	},
+	"ൺ": {
+	    "ka": ["ಣ್"],
+	    "hi": ["ण्"],
+	    "type": "chillu"
+	},
+	"ൻ": {
+	    "ka": ["ನ್"],
+	    "hi": ["न्"],
+	    "type": "chillu"
+	},
+	"ർ": {
+	    "ka": ["ಱ್"],
+	    "hi": ["ऱ्"],
+	    "type": "chillu"
+	},
+	"ൽ": {
+	    "ka": ["ಲ್"],
+	    "hi": ["ल्"],
+	    "type": "chillu"
+	},
+	"ൾ": {
+	    "ka": ["ಳ್"],
+	    "hi": ["ळ्"],
+	    "type": "chillu"
+	},
+	"ക്ക": {
+	    "type": "ligatures"
+	},
+	"ച്ച": {
+	    "type": "ligatures"
+	},
+	"ജ്ജ": {
+	    "type": "ligatures"
+	},
+	"ത്ത": {
+	    "type": "ligatures"
+	},
+	"മ്മ": {
+	    "type": "ligatures"
+	},
+	"ന്ന": {
+	    "type": "ligatures"
+	},
+	"ട്ട": {
+	    "type": "ligatures"
+	},
+	"പ്പ": {
+	    "type": "ligatures"
+	},
+	"ല്ല": {
+	    "type": "ligatures"
+	},
+	"ള്ള": {
+	    "type": "ligatures"
+	},
+	"ഞ്ഞ": {
+	    "type": "ligatures"
+	},
+	"ണ്ണ": {
+	    "type": "ligatures"
+	},
+	"ങ്ങ": {
+	    "type": "ligatures"
+	},
+	"യ്യ": {
+	    "type": "ligatures"
+	},
+	"ങ്ക": {
+	    "type": "ligatures"
+	},
+	"മ്പ": {
+	    "type": "ligatures"
+	},
+	"ക്ഷ": {
+	    "type": "ligatures"
+	},
+	"ഞ്ജ": {
+	    "type": "ligatures"
+	},
+	"ഞ്ച": {
+	    "type": "ligatures"
+	},
+	"ണ്ട": {
+	    "type": "ligatures"
+	},
+	"ന്ത": {
+	    "type": "ligatures"
+	},
+	"ജ്ഞ": {
+	    "type": "ligatures"
+	},
+	"ക്വ": {
+	    "type": "ligatures"
+	},
+	"ത്വ": {
+	    "type": "ligatures"
+	},
+	"പ്വ": {
+	    "type": "ligatures"
+	},
+	"പ്ല": {
+	    "type": "ligatures"
+	},
+	"ക്ല": {
+	    "type": "ligatures"
+	},
+	"ശ്ല": {
+	    "type": "ligatures"
+	},
+	"ക്യ": {
+	    "type": "ligatures"
+	},
+	"പ്യ": {
+	    "type": "ligatures"
+	},
+	"ത്യ": {
+	    "type": "ligatures"
+	},
+	"ത്ര": {
+	    "type": "ligatures"
+	},
+	"ക്ര": {
+	    "type": "ligatures"
+	},
+	"പ്ര": {
+	    "type": "ligatures"
+	},
+	"റ്റ": {
+	    "type": "ligatures"
+	},
+	"ന്റ": {
+	    "type": "ligatures"
+	}
     }
-  }
 }
