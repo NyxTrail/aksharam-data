@@ -2,6 +2,16 @@
     "comment": "Transliteration data for Malayalam. Order matters - within each type as well as among the types",
     "code": "ml",
     "trans_langs": [{"kannada": "ka"}, {"hindi": "hi"}],
+    "info": {
+	"general": {
+	    "en": "<h2>Ligatures (Joint Letters)</h2><p>In Malayalam, many letters can form a ligature with another letter. The more common ones are included in the ligatures section.</p>"
+	},
+	"kannada": {
+	    "en": "<h2>Kannada</h2><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Kannada.<br/>The letter റ in Malayalam corresponds to ಱ (currently out of use) in Kannada. The app uses the Kannada ಱ to transcribe the Malayalam റ.<br/>The Malayalam letter ഴ does not have a corresponding letter in Kannada. The app uses the Kannada letter ಳ to transcribe both the Malayalam ള and ഴ.<br/>"
+	},
+	"hindi": {
+	    "en": "<h2>Hindi</h2><h3>Vowels</h3><p>Malayalam has a short (എ, ഒ) and long (ഏ, ഓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Malayalam to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Hindi. The Malayalam character ള is transcribed to ळ in Hindi. Further, the Unicode specification for Devanagiri includes additional characters for transcribing Dravidian languages. The app uses these for transcribing the additional characters in Malayalam. Hence, the Malayalam റ and ഴ are transcribed to ऱ and ऴ.<br/><h3>Chillu Letters</h3>The half-consonants न्, ण्, ल्, ळ् and र् are represented by the distinct characters ൻ, ൺ, ൽ, ൾ and ർ (called chillaksharam).</p>"
+    },
     "randomise_ligatures": false,
     "data": {
 	"അ": {
@@ -115,7 +125,7 @@
 	},
 	"എ": {
 	    "ka": ["ಎ"],
-	    "hi": ["ए"],
+	    "hi": ["ऎ"],
 	    "examples": {
 		"എണ്ണ": {
 		    "en": "oil",
@@ -166,7 +176,7 @@
 	},
 	"ഒ": {
 	    "ka": ["ಒ"],
-	    "hi": ["ओ"],
+	    "hi": ["ऒ"],
 	    "examples": {
 		"ഒന്ന്": {
 		    "en": "one",
@@ -824,7 +834,7 @@
 	},
 	"െ": {
 	    "ka": ["ೆ"],
-	    "hi": ["े"],
+	    "hi": ["ॆ"],
 	    "type": "signs"
 	},
 	"േ": {
@@ -839,7 +849,7 @@
 	},
 	"ൊ": {
 	    "ka": ["ೊ"],
-	    "hi": ["ो"],
+	    "hi": ["ॊ"],
 	    "type": "signs"
 	},
 	"ോ": {
