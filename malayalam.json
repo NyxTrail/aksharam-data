@@ -7,7 +7,7 @@
 	    "en": "<h2>Ligatures (Joint Letters)</h2><p>In Malayalam, many letters can form a ligature with another letter. The more common ones are included in the ligatures section.</p>"
 	},
 	"kannada": {
-	    "en": "<h2>Kannada</h2><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Kannada.<br/>The letter റ in Malayalam corresponds to ಱ (currently out of use) in Kannada. The app uses the Kannada ಱ to transcribe the Malayalam റ.<br/>The Malayalam letter ഴ does not have a corresponding letter in Kannada. The app uses the Kannada letter ಳ to transcribe both the Malayalam ള and ഴ.<br/>"
+	    "en": "<h2>Kannada</h2><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Kannada.<br/>The letter റ in Malayalam corresponds to ಱ (currently out of use) in Kannada. The app uses the Kannada ಱ to transcribe the Malayalam റ.<br/>The Malayalam letter ഴ does not have a corresponding letter in Kannada. The app uses the Kannada letter ಳ to transcribe both the Malayalam ള and ഴ.</p><br/><h3>റ്റ and ന്റ</h3><p>The Malayalam ligature റ്റ (sometimes written as ററ) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\". This app transcribes റ്റ to ಱ್ಱ. Similarly, the Malayalam ligature ന്റ (sometimes written as ൻറ) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p>"
 	},
 	"hindi": {
 	    "en": "<h2>Hindi</h2><h3>Vowels</h3><p>Malayalam has a short (എ, ഒ) and long (ഏ, ഓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Malayalam to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Hindi. The Malayalam character ള is transcribed to ळ in Hindi. Further, the Unicode specification for Devanagiri includes additional characters for transcribing Dravidian languages. The app uses these for transcribing the additional characters in Malayalam. Hence, the Malayalam റ and ഴ are transcribed to ऱ and ऴ.<br/><h3>Chillu Letters</h3>The half-consonants न्, ण्, ल्, ळ् and र् are represented by the distinct characters ൻ, ൺ, ൽ, ൾ and ർ (called chillaksharam).</p>"
@@ -497,12 +497,12 @@
 		"ദയ": {
 		    "en": "kindness",
 		    "hi": "दया",
-		    "kn": "ದಯೆ"
+		    "ka": "ದಯೆ"
 		},
 		"ദാനം": {
 		    "en": "donation",
 		    "hi": "दान",
-		    "kn": "ದೇಣಿಗ"
+		    "ka": "ದೇಣಿಗ"
 		}
 	    },
 	    "type": "consonants"
@@ -998,9 +998,29 @@
 	},
 	"റ്റ": {
 	    "type": "ligatures"
+	    "examples": {
+		"പാറ്റ": {
+		    "en": "cockroach",
+		    "hi": "तिलचट्टा",
+		    "ka": "ಜಿರಳೆ, ಜೆರಲೆ"
+		},
+	    },
+	    "info": {
+		"en": "<p>The ligature റ്റ (sometimes written as ററ; when written in this form the correct pronounciation is determined from the context) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\"). This app transcribes റ്റ to ಱ್ಱ (Kannada), ऱ्ऱ (Hindi).</p>"
+	    }
 	},
 	"ന്റ": {
 	    "type": "ligatures"
+	    "examples": {
+		"എന്റെ": {
+		    "en": "mine, belonging to me",
+		    "hi": "मेरा",
+		    "ka": "ನನ್ನ"
+		}
+	    },
+	    "info": {
+		"en": "<p>The Malayalam ligature ന്റ (sometimes written as ൻറ; when written in this form, the correct pronounciation is determined from the context) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\"). This app transcribes ന്റ to ನ್ಱ (Kannada), न्ऱ (Hindi).</p>"
+	    }
 	}
     }
 }
