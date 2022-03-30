@@ -997,7 +997,7 @@
 	    "type": "ligatures"
 	},
 	"റ്റ": {
-	    "type": "ligatures"
+	    "type": "ligatures",
 	    "examples": {
 		"പാറ്റ": {
 		    "en": "cockroach",
@@ -1010,7 +1010,7 @@
 	    }
 	},
 	"ന്റ": {
-	    "type": "ligatures"
+	    "type": "ligatures",
 	    "examples": {
 		"എന്റെ": {
 		    "en": "mine, belonging to me",
