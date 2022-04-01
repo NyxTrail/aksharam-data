@@ -14,7 +14,7 @@
 	}
     },
     "virama": "്",
-    "randomise_ligatures": false,
+    "ligatures_auto_generatable": false,
     "data": {
 	"അ": {
 	    "ka": ["ಅ"],
