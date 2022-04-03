@@ -4,7 +4,7 @@
     "trans_langs": [{"kannada": "ka"}, {"hindi": "hi"}],
     "info": {
 	"general": {
-	    "en": "<h2>Ligatures (Joint Letters)</h2><p>In Malayalam, many letters can form a ligature with another letter. The more common ones are included in the ligatures section.</p>"
+	    "en": "<h2>Malayalam</h2><h3>Ligatures (Joint Letters)</h3><p>In Malayalam, many consonants can form a ligature with another consonant. The more common ones are included in the ligatures section. Further, there are a few ligatures in Malayalam (ന്റ, റ്റ) that are pronounced differently from the letters that they are made of. More information about these can be found by long-clicking them in the Letters tab.</p><h3>Chillu Letters</h3><p>A chillu is a special consonant letter that represents a pure consonant independently, without the help of a virama. More information about each chillu letter can be found by long clicking it in the Letters tab.</p>"
 	},
 	"kannada": {
 	    "en": "<h2>Kannada</h2><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Kannada.<br/>The letter റ in Malayalam corresponds to ಱ (currently out of use) in Kannada. The app uses the Kannada ಱ to transcribe the Malayalam റ.<br/>The Malayalam letter ഴ does not have a corresponding letter in Kannada. The app uses the Kannada letter ಳ to transcribe both the Malayalam ള and ഴ.</p><br/><h3>റ്റ and ന്റ</h3><p>The Malayalam ligature റ്റ (sometimes written as ററ) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\". This app transcribes റ്റ to ಱ್ಱ. Similarly, the Malayalam ligature ന്റ (sometimes written as ൻറ) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p>"
@@ -873,128 +873,183 @@
 	"ൺ": {
 	    "ka": ["ಣ್"],
 	    "hi": ["ण्"],
+	    "info": {
+		"en": "<p>ൺ is the chillu for the pure consonant ണ്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are കൂൺ, പെൺ, ഗൺ, etc.</p>"
+	    },
 	    "type": "chillu"
 	},
 	"ൻ": {
 	    "ka": ["ನ್"],
 	    "hi": ["न्"],
+	    "info": {
+		"en": "<p>ൻ is the chillu for the pure consonant ന്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവൻ, ഇവൻ, etc.</p>"
+	    },
 	    "type": "chillu"
 	},
 	"ർ": {
 	    "ka": ["ಱ್"],
 	    "hi": ["ऱ्"],
+	    "info": {
+		"en": "<p>ർ is the chillu for the pure consonant റ്. Historically, ര് was considered the base for ർ. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവർ, ഇവർ, etc.</p>"
+	    },
 	    "type": "chillu"
 	},
 	"ൽ": {
 	    "ka": ["ಲ್"],
 	    "hi": ["ल्"],
+	    "info": {
+		"en": "<p>ൽ is the chillu for the pure consonant ല്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവൽ, കടൽ, കുടൽ, etc.</p>"
+	    },
 	    "type": "chillu"
 	},
 	"ൾ": {
 	    "ka": ["ಳ್"],
 	    "hi": ["ळ्"],
+	    "info": {
+		"en": "<p>ൾ is the chillu for the pure consonant ള്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവൾ, ഇവൾ, ഇപ്പോൾ, etc.</p>"
+	    },
 	    "type": "chillu"
 	},
 	"ക്ക": {
+	    "info": {
+		"en": "<p>ക്ക = ക് + ക</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ച്ച": {
+	    "info": {
+		"en": "<p>ച്ച = ച് + ച</p>"
+	    },
+	    "type": "ligatures"
+	},
+	"ബ്ബ": {
+	    "info": {
+		"en": "<p>ബ്ബ = ബ് + ബ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ജ്ജ": {
+	    "info": {
+		"en": "<p>ജ്ജ = ജ് + ജ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ത്ത": {
+	    "info": {
+		"en": "<p>ത്ത = ത് + ത</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"മ്മ": {
+	    "info": {
+		"en": "<p>മ്മ = മ് + മ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ന്ന": {
+	    "info": {
+		"en": "<p>ന്ന = ന് + ന</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ട്ട": {
+	    "info": {
+		"en": "<p>ട്ട = ട് + ട</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"പ്പ": {
-	    "type": "ligatures"
-	},
-	"ല്ല": {
+	    "info": {
+		"en": "<p>പ്പ = പ് + പ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ള്ള": {
+	    "info": {
+		"en": "<p>ള്ള = ള് + ള</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ഞ്ഞ": {
+	    "info": {
+		"en": "<p>ഞ്ഞ = ഞ് + ഞ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ണ്ണ": {
+	    "info": {
+		"en": "<p>ണ്ണ = ണ് + ണ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ങ്ങ": {
-	    "type": "ligatures"
-	},
-	"യ്യ": {
+	    "info": {
+		"en": "<p>ങ്ങ = ങ് + ങ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ങ്ക": {
+	    "info": {
+		"en": "<p>ങ്ക = ങ് + ക<br/>ങ്ക is sometimes interpreted as ങ്ക = ന് + ക</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"മ്പ": {
+	    "info": {
+		"en": "<p>മ്പ = മ് + പ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ക്ഷ": {
-	    "type": "ligatures"
-	},
-	"ഞ്ജ": {
+	    "info": {
+		"en": "<p>ക്ഷ = ക് + ഷ</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ഞ്ച": {
+	    "info": {
+		"en": "<p>ഞ്ച = ഞ് + ച</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ണ്ട": {
+	    "info": {
+		"en": "<p>ണ്ട = ണ് + ട</p>"
+	    },
 	    "type": "ligatures"
 	},
 	"ന്ത": {
+	    "info": {
+		"en": "<p>ന്ത = ന് + ത</p>"
+	    },
 	    "type": "ligatures"
 	},
-	"ജ്ഞ": {
+	"വ": {
+	    "info": {
+		"en": "<p>When വ forms a conjunct with itself:<br/>വ്വ = വ് + വ</p><p>Further, when വ follows a pure consonant, it takes a special form:</p><div style=\"text-align: center\">ക് + വ = ക്വ<br/>ച് + വ = ച്വ<br/>ട് + വ = ട്വ<br/>ത് + വ = ത്വ<br/>പ് + വ = പ്വ<br/></div>"
+	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ക്വ": {
+	"ല": {
+	    "info": {
+		"en": "<p>When ല follows a pure consonant, it takes a special form:</p><div style=\"text-align: center\">ക് + ല = ക്ല<br/>പ് + ല = പ്ല<br/>ല് + ല = ല്ല</br></div>"
+	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ത്വ": {
+	"യ": {
+	    "info": {
+		"en": "<p>When യ forms a conjunct with itself:<br/>യ്യ = യ് + യ</p><p>Further, when യ follows a pure consonant, it takes a special form:</p><div style=\"text-align: center\">ക് + യ = ക്യ<br/>പ് + യ = പ്യ<br/>ബ് + യ = ബ്യ<br/>ര് + യ = ര്യ<br/></div>"
+	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"പ്വ": {
-	    "type": "ligatures"
-	},
-	"പ്ല": {
-	    "type": "ligatures"
-	},
-	"ക്ല": {
-	    "type": "ligatures"
-	},
-	"ശ്ല": {
-	    "type": "ligatures"
-	},
-	"ക്യ": {
-	    "type": "ligatures"
-	},
-	"പ്യ": {
-	    "type": "ligatures"
-	},
-	"ത്യ": {
-	    "type": "ligatures"
-	},
-	"ത്ര": {
-	    "type": "ligatures"
-	},
-	"ക്ര": {
-	    "type": "ligatures"
-	},
-	"പ്ര": {
+	"ര": {
+	    "info": {
+		"en": "<p>A pure consonant combines with ര in the following way:</p><div style=\"text-align: center\">ഖ് + ര = ഖ്ര<br/>ബ് + ര = ബ്ര<br/>ത് + ര = ത്ര<br/>വ് + ര = വ്ര<br/></div>"
+	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
 	"റ്റ": {
@@ -1007,7 +1062,7 @@
 		}
 	    },
 	    "info": {
-		"en": "<p>The ligature റ്റ (sometimes written as ററ; when written in this form the correct pronounciation is determined from the context) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\"). This app transcribes റ്റ to ಱ್ಱ (Kannada), ऱ्ऱ (Hindi).</p>"
+		"en": "<p>The ligature റ്റ (sometimes written as ററ; when written in this form the correct pronounciation has to be determined from the context) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\").</p>"
 	    }
 	},
 	"ന്റ": {
@@ -1020,7 +1075,7 @@
 		}
 	    },
 	    "info": {
-		"en": "<p>The Malayalam ligature ന്റ (sometimes written as ൻറ; when written in this form, the correct pronounciation is determined from the context) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\"). This app transcribes ന്റ to ನ್ಱ (Kannada), न्ऱ (Hindi).</p>"
+		"en": "<p>The Malayalam ligature ന്റ (sometimes written as ൻറ; when written in this form, the correct pronounciation is determined from the context) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p>"
 	    }
 	}
     }

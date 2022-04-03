@@ -4,13 +4,13 @@
     "trans_langs": [{"malayalam": "ml"}, {"hindi": "hi"}],
     "info": {
 	"general": {
-	    "en": "<h2>Ligatures (Joint Letters)</h2>In Kannada, most letters can form a distinct ligature with another letter. In many cases, these are easily understood like ಕ್ಕ , ಕ್ವ , etc. The app shows only a few of these as examples. Apart from these, some consonants (like ತ , ಯ , ರ, etc) change their shape when forming a ligature.<h2>ಱ</h2>The letter ಱ is not in common use in Kannada today. In a future version of the app, I will add the option to hide and show such characters."
+	    "en": "<h2>Kannada</h2><h3>Ligatures (Joint Letters)</h3>In Kannada, most letters can form a distinct ligature with another letter. In many cases, these are easily understood like ಕ್ಕ , ಕ್ವ , etc. You can see how a particular consonant forms a ligature with another in its info page. Apart from these, some consonants (like ತ , ಯ , ರ, etc) change their shape when forming a ligature. These are included in the Ligatures section of the Letters tab for easy visualisation.<h3>ಱ</h3>The letter ಱ is not in common use in Kannada today. In a future version of the app, I will add the option to hide and show such characters."
 	},
 	"malayalam": {
-	    "en": "<h1>Malayalam</h1><p>Malayalam has a few additional letters (ഴ, റ, റ്റ, ൻ, ൾ, ൽ, ർ, ൺ). While transliterating Kannada to Malayalam the corresponding letters in Malayalam are used, even if using one of the additional letters in Malayalam might make sense. For example, ಕರ್ನಾಟಕ is usually transliterated as കർണാടക in Malayalam. However, this app attempts to preserve the source letters and would transliterate the same to കര്നാടക.</p><br/>"
+	    "en": "<h2>Transliteration to Malayalam</h2><p>Malayalam has a few additional letters (ഴ, റ, റ്റ, ൻ, ൾ, ൽ, ർ, ൺ). While transliterating Kannada to Malayalam the corresponding letters in Malayalam are used, even if using one of the additional letters in Malayalam might make sense. For example, ಕರ್ನಾಟಕ is usually transliterated as കർണാടക in Malayalam. However, this app attempts to preserve the source letters and would transliterate the same to കര്നാടക.</p><br/>"
 	},
 	"hindi": {
-	    "en": "<h1>Hindi</h1><h2>Vowels</h2><p>Kannada has a short (ಎ, ಒ) and long (ಏ, ಓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Kannada to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p>"
+	    "en": "<h2>Transliteration To Hindi</h2><h3>Vowels</h3><p>Kannada has a short (ಎ, ಒ) and long (ಏ, ಓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Kannada to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h4>ऐ and औ</h4><p>The letters ऐ and औ are (sometimes?) pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p>"
 	}
     },
     "virama": "್",
@@ -859,20 +859,7 @@
 	    "type": "signs",
 	    "isVirama": true
 	},
-	"ಕ್ಕ": {
-	    "examples": {
-		"ಅಕ್ಕ": {
-		    "en": "elder sister",
-		    "hi": "दीदी",
-		    "ml": "മൂത്ത സഹോദരി, ചേട്ടത്തി"
-		}
-	    },
-	    "info": {
-		"en": "Many consonants can form conjuncts with itself or other consonants.<br/><br/> Some examples are:<div style=\"text-align: center\">ಕ್ + ಕ = ಕ್ಕ<br/>ಪ್ + ಪ = ಪ್ಪ<br/>ಚ್ + ಕ = ಚ್ಕ<br/>ಕ್ + ವ = ಕ್ವ<br/>ತ್ + ವ = ತ್ವ</div>"
-	    },
-	    "type": "ligatures"
-	},
-	"ಕ್ತ": {
+	"ತ": {
 	    "examples": {
 		"ಭಕ್ತ": {
 		    "en": "devotee",
@@ -888,15 +875,17 @@
 	    "info": {
 		"en": "A half consonant (ಕ್, ಗ್, ತ್ ...) + ತ conjunct is written using the special form of ತ: <br/>Examples: <div style=\"text-align: center\"> ಕ್ + ತ = ಕ್ತ<br/>ಗ್ + ತ = ಗ್ತ<br/>ತ್ + ತ = ತ್ತ</div>"
 	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ಕ್ಸ": {
-	    "type": "ligatures",
+	"ಸ": {
 	    "info": {
 		"en": "A half consonant (ಕ್, ಗ್, ಸ್ ...) + ಸ conjunct is written using the special form of ನ: <br/>Examples: <div style=\"text=align\">ಕ್ + ಸ = ಕ್ಸ<br/>ಗ್ + ಸ = ಗ್ಸ<br/>ಸ್ + ಸ = ಸ್ಸ</div>"
-	    }
+	    },
+	    "combine_after": true,
+	    "type": "ligatures"
 	},
-	"ಖ್ಯ": {
+	"ಯ": {
 	    "examples": {
 		"ನ್ಯಾಯ": {
 		    "en": "fairness, rule",
@@ -912,9 +901,10 @@
 	    "info": {
 		"en": "A half consonant (ಕ್, ಗ್, ಸ್ ...) + ಯ conjunct is written using the special form of ಯ.<br/> Examples: <div style=\"text-align: center\">ಕ್ + ಯ = ಕ್ಯ<br/>ಗ್ + ಯ = ಗ್ಯ<br/>ಸ್ + ಯ = ಸ್ಯ</div>"
 	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ಸ್ನ": {
+	"ನ": {
 	    "examples": {
 		"ಸ್ನಾನ": {
 		    "en": "bath",
@@ -930,6 +920,7 @@
 	    "info": {
 		"en": "A half consonant (ಕ್, ಗ್, ಸ್ ...) + ನ conjunct is written using the special form of ನ.<br/>Examples: <div style=\"text-align: center\">ಕ್ + ನ = ಕ್ನ<br/>ಗ್ + ನ = ಗ್ನ<br/>ಸ್ + ನ = ಸ್ನ</div>"
 	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
 	"ರ್": {
@@ -964,7 +955,8 @@
 		"en": "The character ರ್, when it appears in its half form before a consonant, is written using a special form that appears later in order than when spoken.<br/>Examples:<div style=\"text-align: center\">ಪೂ + ರ್ + ವ = ಪೂರ್ವ (ರ್ + ವ = ರ್ವ)<br/>ಸ + ರ್ + ಕಾ + ರ = ಸರ್ಕಾರ (ರ್ + ಕಾ = ರ್ಕಾ)<br/>ಕ + ರ್ + ನಾ + ಟ + ಕ = ಕರ್ನಾಟಕ (ರ್ + ನಾ = ರ್ನಾ)</div>ರ can also form conjuncts with other characters when it appears second in sequence after a half consonant. In such cases, it is written as shown below: <div style=\"text-align: center\">ಕ್ + ರ = ಕ್ರ<br/>ತ್ + ರ = ತ್ರ<br/>ಸ್ + ರ = ಸ್ರ</div>"
 	    },
 	    "type": "ligatures",
-	    "excludeCombiExamples": true
+	    "combine_after": true,
+	    "combine_before": true
 	}
     }
 }
