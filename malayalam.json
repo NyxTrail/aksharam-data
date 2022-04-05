@@ -873,181 +873,402 @@
 	"ൺ": {
 	    "ka": ["ಣ್"],
 	    "hi": ["ण्"],
+	    "examples": {
+		"കൂൺ": {
+		    "en": "mushroom",
+		    "hi": "मशरूम, कुकुरमुत्ता",
+		    "kn": "ಅಣಬೆಗಳು"
+		},
+		"ഗൺ": {
+		    "en": "gun",
+		    "hi": "गन, बंदूक",
+		    "ka": "ಬಂದೂಕು"
+		}
+	    },
 	    "info": {
-		"en": "<p>ൺ is the chillu for the pure consonant ണ്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are കൂൺ, പെൺ, ഗൺ, etc.</p>"
+		"en": "<p>ൺ is the chillu for the pure consonant ണ്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p>"
 	    },
 	    "type": "chillu"
 	},
 	"ൻ": {
 	    "ka": ["ನ್"],
 	    "hi": ["न्"],
+	    "examples": {
+		"അവൻ": {
+		    "en": "that man or boy",
+		    "hi": "वह आदमी या लड़का",
+		    "kn": "ಅವನು"
+		},
+		"ഇവൻ": {
+		    "en": "this man or boy",
+		    "hi": "यह आदमी या लड़का",
+		    "kn": "ಇವನು"
+		}
+	    },
 	    "info": {
-		"en": "<p>ൻ is the chillu for the pure consonant ന്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവൻ, ഇവൻ, etc.</p>"
+		"en": "<p>ൻ is the chillu for the pure consonant ന്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p>"
 	    },
 	    "type": "chillu"
 	},
 	"ർ": {
-	    "ka": ["ಱ್"],
-	    "hi": ["ऱ्"],
+	    "ka": ["ರ್"],
+	    "hi": ["र्"],
+	    "examples": {
+		"അവർ": {
+		    "en": "those people",
+		    "hi": "वह लोग",
+		    "kn": "ಅವರು"
+		},
+		"ഇവർ": {
+		    "en": "these people",
+		    "hi": "यह लोग",
+		    "kn": "ಇವರು"
+		}
+	    },
 	    "info": {
-		"en": "<p>ർ is the chillu for the pure consonant റ്. Historically, ര് was considered the base for ർ. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവർ, ഇവർ, etc.</p>"
+		"en": "<p>ർ is the chillu for the pure consonant റ്. Historically, ര് was considered the base for ർ. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p>"
 	    },
 	    "type": "chillu"
 	},
 	"ൽ": {
 	    "ka": ["ಲ್"],
 	    "hi": ["ल्"],
+	    "examples": {
+		"കടൽ": {
+		    "en": "sea",
+		    "hi": "समुद्र",
+		    "kn": "ಸಮುದ್ರ"
+		},
+		"മണൽ": {
+		    "en": "sand",
+		    "hi": "रेत",
+		    "kn": "ಮರಳು"
+		}
+	    },
 	    "info": {
-		"en": "<p>ൽ is the chillu for the pure consonant ല്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവൽ, കടൽ, കുടൽ, etc.</p>"
+		"en": "<p>ൽ is the chillu for the pure consonant ല്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p>"
 	    },
 	    "type": "chillu"
 	},
 	"ൾ": {
 	    "ka": ["ಳ್"],
 	    "hi": ["ळ्"],
+	    "examples": {
+		"അവൾ": {
+		    "en": "that woman",
+		    "hi": "वह स्त्री या लड़की",
+		    "kn": "ಅವಳು"
+		},
+		"ഇവൾ": {
+		    "en": "this woman",
+		    "hi": "यह स्त्री या लड़की",
+		    "kn": "ಇವಳು"
+		}
+	    },
 	    "info": {
-		"en": "<p>ൾ is the chillu for the pure consonant ള്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p><p>Some examples are അവൾ, ഇവൾ, ഇപ്പോൾ, etc.</p>"
+		"en": "<p>ൾ is the chillu for the pure consonant ള്. Note that chillu letters are pronounced without the \"-uh\" sound of the virama.</p>"
 	    },
 	    "type": "chillu"
 	},
 	"ക്ക": {
+	    "examples": {
+		"ചക്ക": {
+		    "en": "jackfruit",
+		    "hi": "कटहल",
+		    "kn": "ಹಲಸಿನ ಹಣ್ಣು"
+		}
+	    },
 	    "info": {
 		"en": "<p>ക്ക = ക് + ക</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ച്ച": {
+	    "examples": {
+		"പച്ച": {
+		    "en": "green",
+		    "hi": "हरा",
+		    "kn": "ಹಸಿರು"
+		}
+	    },
 	    "info": {
 		"en": "<p>ച്ച = ച് + ച</p>"
 	    },
 	    "type": "ligatures"
 	},
-	"ബ്ബ": {
-	    "info": {
-		"en": "<p>ബ്ബ = ബ് + ബ</p>"
-	    },
-	    "type": "ligatures"
-	},
 	"ജ്ജ": {
+	    "examples": {
+		"ലജ്ജ": {
+		    "en": "shame",
+		    "hi": "लज्जा",
+		    "ka": "ಲಜ್ಜೆ"
+		}
+	    },
 	    "info": {
 		"en": "<p>ജ്ജ = ജ് + ജ</p>"
 	    },
 	    "type": "ligatures"
 	},
+	"ബ്ബ": {
+	    "examples": {
+		"ക്ലബ്ബ്": {
+		    "en": "club",
+		    "hi": "क्लब",
+		    "kn": "ಕ್ಲಬ್"
+		}
+	    },
+	    "info": {
+		"en": "<p>ബ്ബ = ബ് + ബ</p>"
+	    },
+	    "type": "ligatures"
+	},
 	"ത്ത": {
+	    "examples": {
+		"തത്ത": {
+		    "en": "parrot",
+		    "hi": "तोता",
+		    "kn": "ಗಿಳಿ"
+		}
+	    },
 	    "info": {
 		"en": "<p>ത്ത = ത് + ത</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"മ്മ": {
+	    "examples": {
+		"അമ്മ": {
+		    "en": "mother",
+		    "hi": "मॉं",
+		    "kn": "ಅಮ್ಮ, ತಾಯಿ"
+		}
+	    },
 	    "info": {
 		"en": "<p>മ്മ = മ് + മ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ന്ന": {
+	    "examples": {
+		"നന്ന്": {
+		    "en": "good",
+		    "hi": "अच्छा",
+		    "kn": "ಒಳ್ಳೆಯದು"
+		}
+	    },
 	    "info": {
 		"en": "<p>ന്ന = ന് + ന</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ട്ട": {
+	    "examples": {
+		"വെട്ടം": {
+		    "en": "light",
+		    "hi": "प्रकाश",
+		    "kn": "ಬೆಳಗು"
+		}
+	    },
 	    "info": {
 		"en": "<p>ട്ട = ട് + ട</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"പ്പ": {
+	    "examples": {
+		"അപ്പ": {
+		    "en": "father, dad",
+		    "hi": "पिता",
+		    "kn": "ಅಪ್ಪ"
+		}
+	    },
 	    "info": {
 		"en": "<p>പ്പ = പ് + പ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ള്ള": {
+	    "examples": {
+		"വെള്ളം": {
+		    "en": "water",
+		    "hi": "पानी",
+		    "kn": "ನೀರು"
+		}
+	    },
 	    "info": {
 		"en": "<p>ള്ള = ള് + ള</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ഞ്ഞ": {
+	    "examples": {
+		"മഞ്ഞ": {
+		    "en": "yellow",
+		    "hi": "पीला",
+		    "kn": "ಹಳದಿ"
+		}
+	    },
 	    "info": {
 		"en": "<p>ഞ്ഞ = ഞ് + ഞ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ണ്ണ": {
+	    "examples": {
+		"വെണ്ണ": {
+		    "en": "butter",
+		    "hi": "मक्खन",
+		    "kn": "ಬೆಣ್ಣೆ"
+		}
+	    },
 	    "info": {
 		"en": "<p>ണ്ണ = ണ് + ണ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ങ്ങ": {
+	    "examples": {
+		"തെങ്ങ്": {
+		    "en": "coconut tree",
+		    "hi": "नारियल का पेड़",
+		    "kn": "ತೆಂಗು"
+		}
+	    },
 	    "info": {
 		"en": "<p>ങ്ങ = ങ് + ങ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ങ്ക": {
+	    "examples": {
+		"പങ്ക്": {
+		    "en": "",
+		    "hi": "",
+		    "kn": ""
+		}
+	    },
 	    "info": {
 		"en": "<p>ങ്ക = ങ് + ക<br/>ങ്ക is sometimes interpreted as ങ്ക = ന് + ക</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"മ്പ": {
+	    "examples": {
+		"പാമ്പ്": {
+		    "en": "",
+		    "hi": "",
+		    "kn": ""
+		}
+	    },
 	    "info": {
 		"en": "<p>മ്പ = മ് + പ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ക്ഷ": {
+	    "examples": {
+		"അക്ഷരം": {
+		    "en": "",
+		    "hi": "",
+		    "kn": ""
+		}
+	    },
 	    "info": {
 		"en": "<p>ക്ഷ = ക് + ഷ</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ഞ്ച": {
+	    "examples": {
+		"അഞ്ച്": {
+		    "en": "",
+		    "hi": "",
+		    "kn": ""
+		}
+	    },
 	    "info": {
 		"en": "<p>ഞ്ച = ഞ് + ച</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ണ്ട": {
+	    "examples": {
+		"ചെണ്ട": {
+		    "en": "",
+		    "hi": "",
+		    "kn": ""
+		}
+	    },
 	    "info": {
 		"en": "<p>ണ്ട = ണ് + ട</p>"
 	    },
 	    "type": "ligatures"
 	},
 	"ന്ത": {
+	    "examples": {
+		"ചന്ത": {
+		    "en": "",
+		    "hi": "",
+		    "kn": ""
+		}
+	    },
 	    "info": {
 		"en": "<p>ന്ത = ന് + ത</p>"
 	    },
 	    "type": "ligatures"
 	},
-	"വ": {
+	"ക്വ": {
+	    "examples": {
+		"പക്വത" : {
+		    "en": "maturity",
+		    "ka": "ಪಕ್ವತೆ",
+		    "hi": "पक्वता"
+		}
+	    },
 	    "info": {
 		"en": "<p>When വ forms a conjunct with itself:<br/>വ്വ = വ് + വ</p><p>Further, when വ follows a pure consonant, it takes a special form:</p><div style=\"text-align: center\">ക് + വ = ക്വ<br/>ച് + വ = ച്വ<br/>ട് + വ = ട്വ<br/>ത് + വ = ത്വ<br/>പ് + വ = പ്വ<br/></div>"
 	    },
 	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ല": {
+	"ക്ല": {
+	    "examples": {
+		"ക്ലാസ്സ്" : {
+		    "en": "class",
+		    "ka": "ಕ್ಲಾಸ್ಸ್",
+		    "hi": "क्लास"
+		}
+	    },
 	    "info": {
 		"en": "<p>When ല follows a pure consonant, it takes a special form:</p><div style=\"text-align: center\">ക് + ല = ക്ല<br/>പ് + ല = പ്ല<br/>ല് + ല = ല്ല</br></div>"
 	    },
 	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"യ": {
+	"ന്യ": {
+	    "examples": {
+		"ന്യായം" : {
+		    "en": "justice",
+		    "ka": "ನ್ಯಾಯ",
+		    "hi": "न्याय"
+		}
+	    },
 	    "info": {
 		"en": "<p>When യ forms a conjunct with itself:<br/>യ്യ = യ് + യ</p><p>Further, when യ follows a pure consonant, it takes a special form:</p><div style=\"text-align: center\">ക് + യ = ക്യ<br/>പ് + യ = പ്യ<br/>ബ് + യ = ബ്യ<br/>ര് + യ = ര്യ<br/></div>"
 	    },
 	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ര": {
+	"ഗ്ര": {
+	    "examples": {
+		"ഗ്രാമം" : {
+		    "en": "village",
+		    "ka": "ಗ್ರಾಮ",
+		    "hi": "गॉंव, ग्राम"
+		}
+	    },
 	    "info": {
-		"en": "<p>A pure consonant combines with ര in the following way:</p><div style=\"text-align: center\">ഖ് + ര = ഖ്ര<br/>ബ് + ര = ബ്ര<br/>ത് + ര = ത്ര<br/>വ് + ര = വ്ര<br/></div>"
+		"en": "<p>A pure consonant combines with ര in the following way:</p><div style=\"text-align: center\">ഗ് + ര = ഗ്ര<br/>ബ് + ര = ബ്ര<br/>ത് + ര = ത്ര<br/>വ് + ര = വ്ര<br/></div>"
 	    },
 	    "combine_after": true,
 	    "type": "ligatures"
