@@ -868,17 +868,17 @@
 		},
 		"ರಕ್ತ": {
 		    "en": "blood",
-		    "hi": "रक्त",
+		    "hi": "रक्त, खून",
 		    "ml": "രക്തം"
 		}
 	    },
 	    "info": {
 		"en": "A half consonant (ಕ್, ಗ್, ತ್ ...) + ತ conjunct is written using the special form of ತ: <br/>Examples: <div style=\"text-align: center\"> ಕ್ + ತ = ಕ್ತ<br/>ಗ್ + ತ = ಗ್ತ<br/>ತ್ + ತ = ತ್ತ</div>"
 	    },
-	    "combine_after": true,
 	    "type": "ligatures"
 	},
 	"ತ್ಸ": {
+	    "base": "ಸ",
 	    "examples": {
 		"ಉತ್ಸವ": {
 		    "en": "festival",
@@ -893,6 +893,7 @@
 	    "type": "ligatures"
 	},
 	"ನ್ಯ": {
+	    "base": "ಯ",
 	    "examples": {
 		"ನ್ಯಾಯ": {
 		    "en": "fairness, rule",
@@ -907,6 +908,7 @@
 	    "type": "ligatures"
 	},
 	"ನ್ನ": {
+	    "base": "ನ",
 	    "examples": {
 		"ಸ್ನಾನ": {
 		    "en": "bath",
@@ -921,6 +923,7 @@
 	    "type": "ligatures"
 	},
 	"ರ್": {
+	    "base": "ರ",
 	    "examples": {
 		"ಪೂರ್ವ": {
 		    "en": "past, ancient, east",

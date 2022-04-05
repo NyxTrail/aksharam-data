@@ -1218,6 +1218,7 @@
 	    "type": "ligatures"
 	},
 	"ക്വ": {
+	    "base": "വ",
 	    "examples": {
 		"പക്വത" : {
 		    "en": "maturity",
@@ -1232,6 +1233,7 @@
 	    "type": "ligatures"
 	},
 	"ക്ല": {
+	    "base": "ല",
 	    "examples": {
 		"ക്ലാസ്സ്" : {
 		    "en": "class",
@@ -1246,6 +1248,7 @@
 	    "type": "ligatures"
 	},
 	"ന്യ": {
+	    "base": "യ",
 	    "examples": {
 		"ന്യായം" : {
 		    "en": "justice",
@@ -1260,6 +1263,7 @@
 	    "type": "ligatures"
 	},
 	"ഗ്ര": {
+	    "base": "ര",
 	    "examples": {
 		"ഗ്രാമം" : {
 		    "en": "village",
