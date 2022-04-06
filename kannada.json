@@ -887,7 +887,7 @@
 		}
 	    },
 	    "info": {
-		"en": "A half consonant (ಕ್, ಗ್, ಸ್ ...) + ಸ conjunct is written using the special form of ನ: <br/>Examples: <div style=\"text=align\">ಕ್ + ಸ = ಕ್ಸ<br/>ಗ್ + ಸ = ಗ್ಸ<br/>ಸ್ + ಸ = ಸ್ಸ</div>"
+		"en": "A half consonant (ಕ್, ಗ್, ಸ್ ...) + ಸ conjunct is written using the special form of ನ: <br/>Examples: <div style=\"text-align: center\">ಕ್ + ಸ = ಕ್ಸ<br/>ಗ್ + ಸ = ಗ್ಸ<br/>ಸ್ + ಸ = ಸ್ಸ</div>"
 	    },
 	    "combine_after": true,
 	    "type": "ligatures"
