@@ -907,7 +907,7 @@
 	    "combine_after": true,
 	    "type": "ligatures"
 	},
-	"ನ್ನ": {
+	"ಸ್ನ": {
 	    "base": "ನ",
 	    "examples": {
 		"ಸ್ನಾನ": {
@@ -956,7 +956,8 @@
 	    },
 	    "type": "ligatures",
 	    "combine_after": true,
-	    "combine_before": true
+	    "combine_before": true,
+	    "exclude_combi_examples": true
 	}
     }
 }
