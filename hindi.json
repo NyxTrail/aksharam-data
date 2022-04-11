@@ -84,7 +84,7 @@
 		}
 	    },
 	    "info": {
-		"en": "<div style=\"text-align: center\">Sign for ई: ई</div>"
+		"en": "<div style=\"text-align: center\">Sign for ई: ी</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -169,8 +169,8 @@
 	    "type": "vowels"
 	},
 	"ओ": {
-	    "ml": ["ഒ"],
-	    "ka": ["ಒ"],
+	    "ml": ["ഓ"],
+	    "ka": ["ಓ"],
 	    "examples": {
 		"ओझल": {
 		    "en": "disappear, hidden",
