@@ -4,13 +4,13 @@
     "trans_langs": [{"kannada": "ka"}, {"hindi": "hi"}],
     "info": {
 	"general": {
-	    "en": "<h2>Malayalam</h2><h3>Ligatures (Joint Letters)</h3><p>In Malayalam, many consonants can form a ligature with another consonant. The more common ones are included in the ligatures section. Further, there are a few ligatures in Malayalam (ന്റ, റ്റ) that are pronounced differently from the letters that they are made of. More information about these can be found by long-clicking them in the Letters tab.</p><h3>Chillu Letters</h3><p>A chillu is a special consonant letter that represents a pure consonant independently, without the help of a virama. More information about each chillu letter can be found by long clicking it in the Letters tab.</p>"
+	    "en": "<h2>Malayalam</h2><h3>Ligatures (Joined Letters)</h3><p>In Malayalam, many consonants can form a ligature (joined letter) with another consonant. The more common ones are included in the ligatures section. Further, there are a few ligatures in Malayalam (ന്റ, റ്റ) that are pronounced differently from the letters that they are made of. More information about these can be found by long-clicking them in the Letters tab.</p><h3>Chillu Letters</h3><p>The Malayalam chillu is a special consonant letter that represents a pure consonant independently, without the help of a virama. More information about each chillu letter can be found by long clicking it in the Letters tab.</p>"
 	},
 	"kannada": {
-	    "en": "<h2>Kannada</h2><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Kannada.<br/>The letter റ in Malayalam corresponds to ಱ (currently out of use) in Kannada. The app uses the Kannada ಱ to transcribe the Malayalam റ.<br/>The Malayalam letter ഴ does not have a corresponding letter in Kannada. The app uses the Kannada letter ಳ to transcribe both the Malayalam ള and ഴ.</p><br/><h3>റ്റ and ന്റ</h3><p>The Malayalam ligature റ്റ (sometimes written as ററ) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\". This app transcribes റ്റ to ಱ್ಱ. Similarly, the Malayalam ligature ന്റ (sometimes written as ൻറ) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p>"
+	    "en": "<h2>Transliteration to Kannada</h2><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Kannada.<br/>The letter റ in Malayalam corresponds to ಱ (currently out of use) in Kannada. The app uses the Kannada ಱ to transcribe the Malayalam റ.<br/>The Malayalam letter ഴ does not have a corresponding letter in Kannada. The app uses the Kannada letter ಳ to transcribe both the Malayalam ള and ഴ.</p><br/><h3>റ്റ and ന്റ</h3><p>The Malayalam ligature റ്റ (sometimes written as ററ) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\". This app transcribes റ്റ to ಱ್ಱ. Similarly, the Malayalam ligature ന്റ (sometimes written as ൻറ) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p>"
 	},
 	"hindi": {
-	    "en": "<h2>Hindi</h2><h3>Vowels</h3><p>Malayalam has a short (എ, ഒ) and long (ഏ, ഓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari however provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Malayalam to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Kannada, please note that these letters are pronounced with more stress.</p><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Hindi. The Malayalam character ള is transcribed to ळ in Hindi. Further, the Unicode specification for Devanagiri includes additional characters for transcribing Dravidian languages. The app uses these for transcribing the additional characters in Malayalam. Hence, the Malayalam റ and ഴ are transcribed to ऱ and ऴ.<br/><h3>Chillu Letters</h3>The half-consonants न्, ण्, ल्, ळ् and र् are represented by the distinct characters ൻ, ൺ, ൽ, ൾ and ർ (called chillaksharam).</p>"
+	    "en": "<h2>Transliteration to Hindi</h2><h3>Vowels</h3><p>Malayalam has a short (എ, ഒ) and long (ഏ, ഓ) form for the letters ए and ओ. This differentiation is usually not seen in Hindi. The Unicode specification for Devanagari provides additional characters 'ऎ' and 'ऒ' for transcribing the Dravidian short ए and short ओ. The vowel signs for ऎ and ऒ are ॆ and ॊ. This app, when transliterating Malayalam to Devanagari, uses these additional characters to differentiate between the short and long versions of these characters.</p><br/><h3>ऐ and औ</h3><p>The letters ऐ and औ are pronounced somewhat softly in Hindi. While reading Malayalam, please note that these letters are pronounced with more stress.</p><h3>Consonants</h3><p>Malayalam has a few additional characters that do not exist or have gone out of use in Hindi. The Malayalam character ള is transcribed to ळ in Hindi. Further, the Unicode specification for Devanagiri includes additional characters for transcribing Dravidian languages. The app uses these for transcribing the additional characters in Malayalam. Hence, the Malayalam റ and ഴ are transcribed to ऱ and ऴ.<br/><h3>Chillu Letters</h3>The Malayalam chillu letters (pure consonants) ൻ, ൺ, ൽ, ൾ and ർ are transcribed to न्, ण्, ल्, ळ् and र्.</p>"
 	}
     },
     "virama": "്",
@@ -48,6 +48,9 @@
 		    "ka": "ಆನೆ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ആ: ാ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ഇ": {
@@ -65,6 +68,9 @@
 		    "ka": "ಈಗ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഇ: ി</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ഈ": {
@@ -76,6 +82,9 @@
 		    "hi": "मक्खी",
 		    "ka": "ನೊಣ"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഈ: ീ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -94,6 +103,9 @@
 		    "ka": "ಉತ್ತರ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഉ: ു</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ഊ": {
@@ -105,6 +117,9 @@
 		    "hi": "नमक",
 		    "ka": "ಉಪ್ಪು"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഊ: ൂ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -123,6 +138,9 @@
 		    "ka": "ಋತು"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഋ: ൃ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"എ": {
@@ -139,6 +157,9 @@
 		    "hi": "चूहा",
 		    "ka": "ಇಲಿ"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for എ: െ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -157,6 +178,9 @@
 		    "ka": "ಏಕ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഏ: േ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ഐ": {
@@ -173,6 +197,9 @@
 		    "hi": "ऐतिह्य",
 		    "ka": "ಐತಿಹ್ಯ"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഐ: ൈ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -191,6 +218,9 @@
 		    "ka": "ಶಂಬುಕ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഒ: ൊ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ഓ": {
@@ -208,6 +238,9 @@
 		    "ka": "ಸ್ಮರಣೆ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഓ: ോ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ഔ": {
@@ -219,6 +252,9 @@
 		    "hi": "औषध",
 		    "ka": "ಔಷಧ"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ഔ: ൗ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -232,11 +268,17 @@
 		    "ka": "ಅಂಶ, ಖಂಡ"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for അം: ം</div>"
+	    },
 	    "type": "vowels"
 	},
 	"അഃ": {
 	    "ka": ["ಅಃ"],
 	    "hi": ["अः"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for അഃ: ഃ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ക": {
@@ -651,18 +693,6 @@
 	    },
 	    "type": "consonants"
 	},
-	"റ": {
-	    "ka": ["ಱ"],
-	    "hi": ["ऱ"],
-	    "examples": {
-		"റാണി": {
-		    "en": "queen",
-		    "hi": "रानी",
-		    "ka": "ರಾಣಿ"
-		}
-	    },
-	    "type": "consonants"
-	},
 	"ല": {
 	    "ka": ["ಲ"],
 	    "hi": ["ल"],
@@ -676,40 +706,6 @@
 		    "en": "bashful, shame",
 		    "hi": "लज्जा",
 		    "ka": "ಲಜ್ಜೆ"
-		}
-	    },
-	    "type": "consonants"
-	},
-	"ള": {
-	    "ka": ["ಳ"],
-	    "hi": ["ळ"],
-	    "examples": {
-		"കുളം": {
-		    "en": "pond",
-		    "hi": "तालाब",
-		    "ka": "ಕೊಳ"
-		},
-		"കാള": {
-		    "en": "bull",
-		    "hi": "बैल",
-		    "ka": "ಎತ್ತು"
-		}
-	    },
-	    "type": "consonants"
-	},
-	"ഴ": {
-	    "ka": ["ಳ"],
-	    "hi": ["ऴ"],
-	    "examples": {
-		"മഴ": {
-		    "en": "rain",
-		    "hi": "बारिश",
-		    "ka": "ಮಳೆ"
-		},
-		"പഴം": {
-		    "en": "fruit",
-		    "hi": "फल",
-		    "ka": "ಹಣ್ಣು"
 		}
 	    },
 	    "type": "consonants"
@@ -794,74 +790,162 @@
 	    },
 	    "type": "consonants"
 	},
-	"ം": {
-	    "ka": ["ಂ"],
-	    "hi": ["ं"],
-	    "type": "signs"
+	"ള": {
+	    "ka": ["ಳ"],
+	    "hi": ["ळ"],
+	    "examples": {
+		"കുളം": {
+		    "en": "pond",
+		    "hi": "तालाब",
+		    "ka": "ಕೊಳ"
+		},
+		"കാള": {
+		    "en": "bull",
+		    "hi": "बैल",
+		    "ka": "ಎತ್ತು"
+		}
+	    },
+	    "type": "consonants"
 	},
-	"ഃ": {
-	    "ka": ["ಃ"],
-	    "hi": ["ः"],
-	    "type": "signs"
+	"ഴ": {
+	    "ka": ["ಳ"],
+	    "hi": ["ऴ"],
+	    "examples": {
+		"മഴ": {
+		    "en": "rain",
+		    "hi": "बारिश",
+		    "ka": "ಮಳೆ"
+		},
+		"പഴം": {
+		    "en": "fruit",
+		    "hi": "फल",
+		    "ka": "ಹಣ್ಣು"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"റ": {
+	    "ka": ["ಱ"],
+	    "hi": ["ऱ"],
+	    "examples": {
+		"റാണി": {
+		    "en": "queen",
+		    "hi": "रानी",
+		    "ka": "ರಾಣಿ"
+		}
+	    },
+	    "type": "consonants"
 	},
 	"ാ": {
 	    "ka": ["ಾ"],
 	    "hi": ["ा"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ആ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ി": {
 	    "ka": ["ಿ"],
 	    "hi": ["ि"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഇ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ീ": {
 	    "ka": ["ೀ"],
 	    "hi": ["ी"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഈ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ു": {
 	    "ka": ["ು"],
 	    "hi": ["ु"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഉ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ൂ": {
 	    "ka": ["ೂ"],
 	    "hi": ["ू"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഊ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ൃ": {
 	    "ka": ["ೃ"],
 	    "hi": ["ृ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഋ</div>"
+	    },
 	    "type": "signs"
 	},
 	"െ": {
 	    "ka": ["ೆ"],
 	    "hi": ["ॆ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: എ</div>"
+	    },
 	    "type": "signs"
 	},
 	"േ": {
 	    "ka": ["ೇ"],
 	    "hi": ["े"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഏ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ൈ": {
 	    "ka": ["ೈ"],
 	    "hi": ["ै"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഐ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ൊ": {
 	    "ka": ["ೊ"],
 	    "hi": ["ॊ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഒ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ോ": {
 	    "ka": ["ೋ"],
 	    "hi": ["ो"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഓ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ൌ": {
 	    "ka": ["ೌ"],
 	    "hi": ["ौ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ഔ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ം": {
+	    "ka": ["ಂ"],
+	    "hi": ["ं"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: അം</div>"
+	    },
+	    "type": "signs"
+	},
+	"ഃ": {
+	    "ka": ["ಃ"],
+	    "hi": ["ः"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: അഃ</div>"
+	    },
 	    "type": "signs"
 	},
 	"്": {

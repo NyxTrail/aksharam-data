@@ -1,0 +1,909 @@
+{
+    "comment": "Transliteration data for Hindi. Order matters - within each type as well as among the types",
+    "code": "hi",
+    "trans_langs": [{"malayalam": "ml"}, {"kannada": "ka"}],
+    "info": {
+	"general": {
+	    "en": "<h2>Hindi</h2><h3>Ligatures (Joined Letters)</h3><p>In Hindi, many consonants can form a ligature (joined letter) with another consonant. The more common ones are included in the ligatures section.</p>"
+	},
+	"malayalam": {
+	    "en": "<h2>Transliteration to Malayalam</h2><h3>Vowels</h3><h4>എ, ഏ, ഒ, ഓ</h4><p>Hindi does not differentiate between a short and long 'എ'. The app transliterates the Hindi 'ए' and 'ओ' to the Malayalam 'ഏ' and 'ഓ'.</p><h4>ऐ and औ</h4><p>In Hindi, 'ऐ' and 'औ' are usually pronounced softer (closer to 'ए' and 'ओ') than the corresponding characters ('ഐ' and 'ഔ') in Malayalam.</p><h3>Consonants</h3><p>If the last letter in a word is a consonant and its inherent vowel is अ, then that 'अ' is usually not pronounced.<br/>For example, नल is pronounced നൽ (not നല) and नमक is pronounced നമക് (not നമക) without the '-uh' sound of the chandrakkala.</p><h3>Additional Letters</h3><p>Devanagari includes a few additional letters and vowel signs to help write down some sounds commonly found in foreign languages.</p><p>The additional vowel signs are 'ॅ' and 'ॉ'. 'ॅ' is pronounced like the first 'a' in Canada (कॅनडा). 'ॉ' is pronounced like the 'o' in Coffee (कॉफ़ी).</p><p>The additional consonants are 'क़', 'ख़', 'ग़', 'ज़', 'ड़', 'ढ़', 'फ़' and 'य़'. Of these, the more common ones are 'ज़' (pronounced like the English 'z' in zebra), 'ड़', 'फ़' (pronounced like the English 'f' in fan and fit).</p>"
+	},
+	"kannada": {
+	    "en": "<h2>Transliteration to Kannada</h2><h3>Vowels</h3><h4>ಎ, ಏ, ಒ, ಓ</h4><p>Hindi does not differentiate between a short and long 'ಎ'. The app transliterates the Hindi 'ए' and 'ओ' to the Kannada 'ಏ' and 'ಓ'.</p><h4>ऐ and औ</h4><p>In Hindi, 'ऐ' and 'औ' are usually pronounced softer (closer to 'ए' and 'ओ') than the corresponding characters ('ಐ' and 'ಔ') in Kannada.</p><h3>Consonants</h3><p>If the last letter in a word is a consonant and its inherent vowel is अ, then that 'अ' is usually not pronounced.<br/>For example, नल is pronounced ನಲ್ (not ನಲ) and नमक is pronounced ನಮಕ್ (not ನಮಕ), both without the '-uh' sound of the virama.</p><h3>Additional Leters</h3><p>Devanagari includes a few additional letters and vowel signs to help write down some sounds commonly found in foreign languages.</p><p>The additional vowel signs are 'ॅ' and 'ॉ'. 'ॅ' is pronounced like the first 'a' in Canada (कॅनडा). 'ॉ' is pronounced like the 'o' in Coffee (कॉफ़ी).</p><p>The additional consonants are 'क़', 'ख़', 'ग़', 'ज़', 'ड़', 'ढ़', 'फ़' and 'य़'. Of these, the more common ones are 'ज़' (pronounced like the English 'z' in zebra), 'ड़', 'फ़' (pronounced like the English 'f' in fan and fit).</p>"
+	}
+    },
+    "virama": "्",
+    "ligatures_auto_generatable": true,
+    "data": {
+	"अ": {
+	    "ml": ["അ"],
+	    "ka": ["ಅ"],
+	    "examples": {
+		"अनार": {
+		    "en": "pomegranate",
+		    "ka": "ದಾಳಿಂಬ",
+		    "ml": "മാതളനാരങ്ങ"
+		},
+		"अचानक": {
+		    "en": "suddenly",
+		    "ka": "ಹಠಾತ್",
+		    "ml": "പെട്ടെന്ന്"
+		}
+	    },
+	    "type": "vowels"
+	},
+	"आ": {
+	    "ml": ["ആ"],
+	    "ka": ["ಆ"],
+	    "examples": {
+		"आग": {
+		    "en": "fire",
+		    "ka": "ಬೆಂಕಿ",
+		    "ml": "തീ"
+		},
+		"आज": {
+		    "en": "today",
+		    "ka": "ಇಂದು",
+		    "ml": "ഇന്ന്"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for आ: ा</div>"
+	    },
+	    "type": "vowels"
+	},
+	"इ": {
+	    "ml": ["ഇ"],
+	    "ka": ["ಇ"],
+	    "examples": {
+		"इधर": {
+		    "en": "here",
+		    "ka": "ಇಲ್ಲಿ",
+		    "ml": "ഇവിടെ"
+		},
+		"इस": {
+		    "en": "this",
+		    "ka": "ಇದು",
+		    "ml": "ഇത്"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for इ: ि</div>"
+	    },
+	    "type": "vowels"
+	},
+	"ई": {
+	    "ml": ["ഈ"],
+	    "ka": ["ಈ"],
+	    "examples": {
+		"ईश्वर": {
+		    "en": "God",
+		    "ka": "ಈಶ್ವರ",
+		    "ml": "ഈശ്വരൻ"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ई: ई</div>"
+	    },
+	    "type": "vowels"
+	},
+	"उ": {
+	    "ml": ["ഉ"],
+	    "ka": ["ಉ"],
+	    "examples": {
+		"उत्तर": {
+		    "en": "answer",
+		    "ka": "ಉತ್ತರ",
+		    "ml": "ഉത്തരം"
+		},
+		"उल्लू": {
+		    "en": "owl",
+		    "ka": "ಗೂಬೆ",
+		    "ml": "മൂങ്ങ"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for उ: ु</div>"
+	    },
+	    "type": "vowels"
+	},
+	"ऊ": {
+	    "ml": ["ഊ"],
+	    "ka": ["ಊ"],
+	    "examples": {
+		"ऊपर": {
+		    "en": "up, above",
+		    "ka": "ಮೇಲೆ",
+		    "ml": "മുകൾ"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ऊ: ू</div>"
+	    },
+	    "type": "vowels"
+	},
+	"ऋ": {
+	    "ml": ["ഋ"],
+	    "ka": ["ಋ"],
+	    "examples": {
+		"ऋषि": {
+		    "en": "a saint, an ascetic",
+		    "ka": "ಋಷಿ",
+		    "ml": "ഋഷി"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ऋ: ृ</div>"
+	    },
+	    "type": "vowels"
+	},
+	"ए": {
+	    "ml": ["ഏ"],
+	    "ka": ["ಏ"],
+	    "examples": {
+		"एक": {
+		    "en": "one",
+		    "ka": "ಒಂದು",
+		    "ml": "ഒന്ന്"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ए: े</div>"
+	    },
+	    "type": "vowels"
+	},
+	"ऐ": {
+	    "ml": ["ഐ"],
+	    "ka": ["ಐ"],
+	    "examples": {
+		"ऐनक": {
+		    "en": "spectacles",
+		    "ka": "ಕನ್ನಟಕ",
+		    "ml": "കണ്ണട"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ऐ: ै</div>"
+	    },
+	    "type": "vowels"
+	},
+	"ओ": {
+	    "ml": ["ഒ"],
+	    "ka": ["ಒ"],
+	    "examples": {
+		"ओझल": {
+		    "en": "disappear, hidden",
+		    "ka": "ಹುದುಗ",
+		    "ml": "മറഞ്ഞ്"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ओ: ो</div>"
+	    },
+	    "type": "vowels"
+	},
+	"औ": {
+	    "ml": ["ഔ"],
+	    "ka": ["ಔ"],
+	    "examples": {
+		"औरत": {
+		    "en": "a woman",
+		    "ka": "ಹೆಣ್ಣು",
+		    "ml": "സ്ത്രീ"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for औ: ौ</div>"
+	    },
+	    "type": "vowels"
+	},
+	"अं": {
+	    "ml": ["അം"],
+	    "ka": ["ಅಂ"],
+	    "examples": {
+		"अंतर": {
+		    "en": "difference",
+		    "ka": "ವ್ಯತ್ಯಾಸ",
+		    "ml": "വ്യത്യാസം"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for अं: ं</div>"
+	    },
+	    "type": "vowels"
+	},
+	"अः": {
+	    "ml": ["അഃ"],
+	    "ka": ["ಅಃ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for अः: ः</div>"
+	    },
+	    "type": "vowels"
+	},
+	"क": {
+	    "ml": ["ക"],
+	    "ka": ["ಕ"],
+	    "examples": {
+		"कच्चा": {
+		    "en": "raw",
+		    "ka": "ಕಚ್ಚಾ",
+		    "ml": "പച്ചയായ"
+		},
+		"कठोर": {
+		    "en": "hard, difficult",
+		    "ka": "ಕಷ್ಟ",
+		    "ml": "വിഷമം, പ്രയാസം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ख": {
+	    "ml": ["ഖ"],
+	    "ka": ["ಖ"],
+	    "examples": {
+		"खरगोश": {
+		    "en": "rabbit",
+		    "ka": "ಮೊಲ",
+		    "ml": "മുയൽ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ग": {
+	    "ml": ["ഗ"],
+	    "ka": ["ಗ"],
+	    "examples": {
+		"गाय": {
+		    "en": "cow",
+		    "ka": "ಹಸು",
+		    "ml": "പശു"
+		},
+		"गाँव": {
+		    "en": "village",
+		    "ka": "ಗ್ರಾಮ",
+		    "ml": "ഗ്രാമം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"घ": {
+	    "ml": ["ഘ"],
+	    "ka": ["ಘ"],
+	    "examples": {
+		"घर": {
+		    "en": "house",
+		    "ka": "ಮನೆ",
+		    "ml": "വീട്"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ङ": {
+	    "ml": ["ങ"],
+	    "ka": ["ಙ"],
+	    "type": "consonants"
+	},
+	"च": {
+	    "ml": ["ച"],
+	    "ka": ["ಚ"],
+	    "examples": {
+		"चमच": {
+		    "en": "spoon",
+		    "ka": "ಚಮಚ",
+		    "ml": "കരണ്ടി, സ്പൂൺ"
+		},
+		"चढ़": {
+		    "en": "climb",
+		    "ka": "ಏರು",
+		    "ml": "കയറുക"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"छ": {
+	    "ml": ["ഛ"],
+	    "ka": ["ಛ"],
+	    "examples": {
+		"छाया": {
+		    "en": "shadow",
+		    "ka": "ನೆರಳು, ಛಾಯೆ",
+		    "ml": "നിഴൽ"
+		},
+		"छाता": {
+		    "en": "umbrella",
+		    "ka": "ಛತ್ರಿ",
+		    "ml": "കുട"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ज": {
+	    "ml": ["ജ"],
+	    "ka": ["ಜ"],
+	    "examples": {
+		"जंगल": {
+		    "en": "forest",
+		    "ka": "ಅರಣ್ಯ, ಕಾಡು",
+		    "ml": "കാട്"
+		},
+		"जन": {
+		    "en": "people",
+		    "ka": "ಜನರು",
+		    "ml": "ജനം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"झ": {
+	    "ml": ["ഝ"],
+	    "ka": ["ಝ"],
+	    "examples": {
+		"झंडा": {
+		    "en": "flag",
+		    "ka": "ಧ್ವಜ",
+		    "ml": "കൊടി"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ञ": {
+	    "ml": ["ഞ"],
+	    "ka": ["ಞ"],
+	    "type": "consonants"
+	},
+	"ट": {
+	    "ml": ["ട"],
+	    "ka": ["ಟ"],
+	    "examples": {
+		"टमाटर": {
+		    "en": "tomato",
+		    "ka": "ತಕ್ಕಾಳಿ, ಟೊಮಾಟೋ",
+		    "ml": "തക്കാളി"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ठ": {
+	    "ml": ["ഠ"],
+	    "ka": ["ಠ"],
+	    "examples": {
+		"ठंढा": {
+		    "en": "cold",
+		    "ka": "ತಣ್ಣಗೆ",
+		    "ml": "തണുപ്പ്"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ड": {
+	    "ml": ["ഡ"],
+	    "ka": ["ಡ"],
+	    "examples": {
+		"डमरु": {
+		    "en": "a drum",
+		    "ka": "ಡಮರ",
+		    "ml": "ഡമരി"
+		},
+		"डर": {
+		    "en": "fear",
+		    "ka": "ಭಯ",
+		    "ml": "ഭയം, പേടി"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ढ": {
+	    "ml": ["ഢ"],
+	    "ka": ["ಢ"],
+	    "examples": {
+		"ढक्कन": {
+		    "en": "lid",
+		    "ka": "ಮುಚ್ಚಳ",
+		    "ml": "അടപ്പ്, മൂടി"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ण": {
+	    "ml": ["ണ"],
+	    "ka": ["ಣ"],
+	    "type": "consonants"
+	},
+	"त": {
+	    "ml": ["ത"],
+	    "ka": ["ತ"],
+	    "examples": {
+		"तारा": {
+		    "en": "star",
+		    "ka": "ನಕ್ಷತ್ರ",
+		    "ml": "നക്ഷത്രം"
+		},
+		"तैरना": {
+		    "en": "to swim",
+		    "ka": "ಈಜು",
+		    "ml": "നീന്തുക"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"थ": {
+	    "ml": ["ഥ"],
+	    "ka": ["ಥ"],
+	    "examples": {
+		"थोड़ा": {
+		    "en": "little",
+		    "ka": "ಸ್ವಲ್ಪ, ಸಣ್ಣ",
+		    "ml": "കുറച്ച്"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"द": {
+	    "ml": ["ദ"],
+	    "ka": ["ದ"],
+	    "examples": {
+		"दया": {
+		    "en": "kindness, sympathy",
+		    "ka": "ಕರುಣೆ",
+		    "ml": "ദയ, കരുണ"
+		},
+		"दिन": {
+		    "en": "day",
+		    "ka": "ದಿನ",
+		    "ml": "ദിവസം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ध": {
+	    "ml": ["ധ"],
+	    "ka": ["ಧ"],
+	    "examples": {
+		"धरती": {
+		    "en": "Earth, ground",
+		    "ka": "ಭೂಮಿ",
+		    "ml": "ഭൂമി"
+		},
+		"धन": {
+		    "en": "money",
+		    "ka": "ಧನ, ಸಂಪತ್ತು",
+		    "ml": "ധനം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"न": {
+	    "ml": ["ന"],
+	    "ka": ["ನ"],
+	    "examples": {
+		"नल": {
+		    "en": "water-tap",
+		    "ka": "ಡ್ಯಾಪ್",
+		    "ml": "ടാപ്പ്"
+		},
+		"नमक": {
+		    "en": "salt",
+		    "ka": "ಉಪ್ಪು",
+		    "ml": "ഉപ്പ്"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"प": {
+	    "ml": ["പ"],
+	    "ka": ["ಪ"],
+	    "examples": {
+		"पत्ता": {
+		    "en": "leaf",
+		    "ka": "ಎಲೆ",
+		    "ml": "ഇല"
+		},
+		"पकाना": {
+		    "en": "to cook",
+		    "ka": "ಅಡುಗೆ ಮಾಡಲು",
+		    "ml": "പാചകം ചെയ്യുക"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"फ": {
+	    "ml": ["ഫ"],
+	    "ka": ["ಫ"],
+	    "examples": {
+		"फूल": {
+		    "en": "flower",
+		    "ka": "ಹೂವು",
+		    "ml": "പൂവ്"
+		},
+		"फल": {
+		    "en": "fruit",
+		    "ka": "ಹಣ್ಣು",
+		    "ml": "ഫലം, പഴം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ब": {
+	    "ml": ["ബ"],
+	    "ka": ["ಬ"],
+	    "examples": {
+		"बंदर": {
+		    "en": "monkey",
+		    "ka": "ಕೋತಿ",
+		    "ml": "കുരങ്ങ്"
+		},
+		"बादल": {
+		    "en": "cloud",
+		    "ka": "ಮೇಘ",
+		    "ml": "മേഘം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"भ": {
+	    "ml": ["ഭ"],
+	    "ka": ["ಭ"],
+	    "examples": {
+		"भालू": {
+		    "en": "bear",
+		    "ka": "ಕರಡಿ",
+		    "ml": "കരടി"
+		},
+		"भागना": {
+		    "en": "to run",
+		    "ka": "ಓಡು",
+		    "ml": "ഓടുക"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"म": {
+	    "ml": ["മ"],
+	    "ka": ["ಮ"],
+	    "examples": {
+		"मक्खी": {
+		    "en": "a fly",
+		    "ka": "ನೊಣ",
+		    "ml": "ഈച്ച"
+		},
+		"मछली": {
+		    "en": "fly",
+		    "ka": "ಮೀನು",
+		    "ml": "മീൻ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"य": {
+	    "ml": ["യ"],
+	    "ka": ["ಯ"],
+	    "examples": {
+		"याद": {
+		    "en": "memory, remembrance",
+		    "ka": "ಸ್ಮರಣೆ",
+		    "ml": "ഓർമ്മ"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"र": {
+	    "ml": ["ര"],
+	    "ka": ["ರ"],
+	    "examples": {
+		"रात": {
+		    "en": "night",
+		    "ka": "ರಾತ್ರಿ",
+		    "ml": "രാത്രി"
+		},
+		"रास्ता": {
+		    "en": "path, road",
+		    "ka": "ರಸ್ತೆ",
+		    "ml": "വഴി"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ल": {
+	    "ml": ["ല"],
+	    "ka": ["ಲ"],
+	    "examples": {
+		"लाल": {
+		    "en": "red",
+		    "ka": "ಕೆಂಪು",
+		    "ml": "ചുവപ്പ്"
+		},
+		"लोग": {
+		    "en": "people",
+		    "ka": "ಜನರು",
+		    "ml": "ജനം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"व": {
+	    "ml": ["വ"],
+	    "ka": ["ವ"],
+	    "examples": {
+		"वह": {
+		    "en": "that",
+		    "ka": "ಅದು",
+		    "ml": "അത്"
+		},
+		"वजह": {
+		    "en": "reason",
+		    "ka": "ಕಾರಣ",
+		    "ml": "കാരണം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"श": {
+	    "ml": ["ശ"],
+	    "ka": ["ಶ"],
+	    "examples": {
+		"शहर": {
+		    "en": "city",
+		    "ka": "ನಗರ",
+		    "ml": "നഗരം"
+		},
+		"शेर": {
+		    "en": "lion",
+		    "ka": "ಸಿಂಹ",
+		    "ml": "സിംഹം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ष": {
+	    "ml": ["ഷ"],
+	    "ka": ["ಷ"],
+	    "examples": {
+		"षड्ज": {
+		    "en": "a musical note",
+		    "ka": "ಷಡ್ಜ",
+		    "ml": "ഷഡ്ജം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"स": {
+	    "ml": ["സ"],
+	    "ka": ["ಸ"],
+	    "examples": {
+		"संसार": {
+		    "en": "world",
+		    "ka": "ಲೋಕ, ವಿಶ್ವ",
+		    "ml": "ലോകം, വിശ്വം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ह": {
+	    "ml": ["ഹ"],
+	    "ka": ["ಹ"],
+	    "examples": {
+		"हीरा": {
+		    "en": "diamond",
+		    "ka": "ವಜ್ರ",
+		    "ml": "വൈരം, വജ്രം"
+		},
+		"हृदय": {
+		    "en": "heart",
+		    "ka": "ಹೃದಯ",
+		    "ml": "ഹൃദയം"
+		}
+	    },
+	    "type": "consonants"
+	},
+	"ा": {
+	    "ml": ["ാ"],
+	    "ka": ["ಾ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: आ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ि": {
+	    "ml": ["ി"],
+	    "ka": ["ಿ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: इ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ी": {
+	    "ml": ["ീ"],
+	    "ka": ["ೀ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	ई</div>"
+	    },
+	    "type": "signs"
+	},
+	"ु": {
+	    "ml": ["ു"],
+	    "ka": ["ು"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	उ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ू": {
+	    "ml": ["ൂ"],
+	    "ka": ["ೂ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	ऊ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ृ": {
+	    "ml": ["ൃ"],
+	    "ka": ["ೃ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	ऋ</div>"
+	    },
+	    "type": "signs"
+	},
+	"े": {
+	    "ml": ["േ"],
+	    "ka": ["ೇ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	ए</div>"
+	    },
+	    "type": "signs"
+	},
+	"ै": {
+	    "ml": ["ൈ"],
+	    "ka": ["ೈ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	ऐ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ो": {
+	    "ml": ["ൊ"],
+	    "ka": ["ೊ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	ओ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ौ": {
+	    "ml": ["ൗ"],
+	    "ka": ["ೌ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	औ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ं": {
+	    "ml": ["ം"],
+	    "ka": ["ಂ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	अं</div>"
+	    },
+	    "type": "signs"
+	},
+	"ः": {
+	    "ml": ["ഃ"],
+	    "ka": ["ಃ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel:	अः</div>"
+	    },
+	    "type": "signs"
+	},
+	"ँ": {
+	    "ml": ["ഁ"],
+	    "ka": ["ಁ"],
+	    "type": "signs"
+	},
+	"ॅ": {
+	    "ml": ["ാ"],
+	    "ka": ["ಾ"],
+	    "type": "signs"
+	},
+	"ॉ": {
+	    "ml": ["ോ"],
+	    "ka": ["ೋ"],
+	    "type": "signs"
+	},
+	"क्ष": {
+	    "examples": {
+		"कक्षा": {
+		    "en": "class",
+		    "ka": "ಕ್ಲಾಸ್",
+		    "ml": "ക്ലാസ്"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">क्ष = क् + ष</div>"
+	    },
+	    "type": "ligatures"
+	},
+	"त्र": {
+	    "examples": {
+		"क्षेत्र": {
+		    "en": "place",
+		    "ka": "ಸ್ಥಳ",
+		    "ml": "സ്ഥലം"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">त्र = त् + र</div>"
+	    },
+	    "type": "ligatures"
+	},
+	"ज्ञ": {
+	    "examples": {
+		"ज्ञान": {
+		    "en": "knowledge",
+		    "ka": "ಜ್ಞಾನ",
+		    "ml": "ജ്ഞാനം"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">ज्ञ = ज् + ञ</div>"
+	    },
+	    "type": "ligatures"
+	},
+	"श्र": {
+	    "examples": {
+		"विश्राम": {
+		    "en": "rest",
+		    "ka": "ವಿಶ್ರಾಂತಿ",
+		    "ml": "വിശ്രമം"
+		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">श्र = श् + र</div>"
+	    },
+	    "type": "ligatures"
+	},
+	"क़": {
+	    "ka": "ಕ",
+	    "ml": "ക",
+	    "type": "ligatures"
+	},
+	"ख़": {
+	    "ka": "ಖ",
+	    "ml": "ഖ",
+	    "type": "ligatures"
+	},
+	"ग़": {
+	    "ka": "ಗ",
+	    "ml": "ഗ",
+	    "type": "ligatures"
+	},
+	"ज़": {
+	    "ka": "ಸ",
+	    "ml": "സ",
+	    "info": {
+		"en": "ज़ is pronounced like the 'z' in 'zoo', 'zebra', etc."
+	    },
+	    "type": "ligatures"
+	},
+	"ड़": {
+	    "ka": "ಡ",
+	    "ml": "ഡ",
+	    "type": "ligatures"
+	},
+	"ढ़": {
+	    "ka": "ಢ",
+	    "ml": "ഢ",
+	    "type": "ligatures"
+	},
+	"फ़": {
+	    "ka": "ಫ",
+	    "ml": "ഫ",
+	    "info": {
+		"en": "फ़ is pronounced like the 'f' in 'fan', 'fin', 'fit', etc."
+	    },
+	    "type": "ligatures"
+	},
+	"य़": {
+	    "ka": "ಯ",
+	    "ml": "യ",
+	    "type": "ligatures"
+	}
+    }   
+}

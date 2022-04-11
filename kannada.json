@@ -53,6 +53,9 @@
 		    "ml": "ആറ്"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಆ: ಾ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಇ": {
@@ -75,6 +78,9 @@
 		    "ml": "ഇത്"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಇ: ಿ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಈ": {
@@ -91,6 +97,9 @@
 		    "hi": "यह स्त्री",
 		    "ml": "ഇവൾ"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಈ: ೀ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -109,6 +118,9 @@
 		    "ml": "ഉപ്പ്"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಉ: ು</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಊ": {
@@ -116,15 +128,18 @@
 	    "hi": ["ऊ"],
 	    "examples": {
 		"ಊರು": {
-		    "en": "village",
-		    "hi": "गाँव",
-		    "ml": "നാട്"
+		    "en": "town",
+		    "hi": "शहर",
+		    "ml": "നഗരം"
 		},
 		"ಊಟ": {
 		    "en": "meal",
 		    "hi": "खाना, भोजन",
 		    "ml": "ഊണ്, ഊണ്ണുക"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಊ: ೂ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -143,6 +158,9 @@
 		    "ml": "ഋതു"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಋ: ೃ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಎ": {
@@ -159,6 +177,9 @@
 		    "hi": "गिनना",
 		    "ml": "എണ്ണുക"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಎ: ೆ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -177,6 +198,9 @@
 		    "ml": "ഞണ്ട്"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಏ: ೇ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಐ": {
@@ -193,6 +217,9 @@
 		    "hi": "ऐतिह्य",
 		    "ml": "ഐതിഹ്യം"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಐ: ೈ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -211,6 +238,9 @@
 		    "ml": "തൊഴി"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಒ: ೊ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಓ": {
@@ -227,6 +257,9 @@
 		    "hi": "भागना",
 		    "ml": "ഓടുക"
 		}
+	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಓ: ೋ</div>"
 	    },
 	    "type": "vowels"
 	},
@@ -245,6 +278,9 @@
 		    "ml": "വിരുന്ന്"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಔ: ೌ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಅಂ": {
@@ -262,11 +298,17 @@
 		    "ml": "അന്തരം"
 		}
 	    },
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಅಂ: ಂ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಅಃ": {
 	    "ml": ["അഃ"],
 	    "hi": ["अः"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Sign for ಅಃ: ಃ</div>"
+	    },
 	    "type": "vowels"
 	},
 	"ಕ": {
@@ -783,74 +825,116 @@
 	    },
 	    "type": "consonants"
 	},
-	"ಂ": {
-	    "ml": ["ം"],
-	    "hi": ["ं"],
-	    "type": "signs"
-	},
-	"ಃ": {
-	    "ml": ["ഃ"],
-	    "hi": ["ः"],
-	    "type": "signs"
-	},
 	"ಾ": {
 	    "ml": ["ാ"],
 	    "hi": ["ा"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಆ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ಿ": {
 	    "ml": ["ി"],
 	    "hi": ["ि"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಇ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೀ": {
 	    "ml": ["ീ"],
 	    "hi": ["ी"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಈ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ು": {
 	    "ml": ["ു"],
 	    "hi": ["ु"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಉ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೂ": {
 	    "ml": ["ൂ"],
 	    "hi": ["ू"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಊ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೃ": {
 	    "ml": ["ൃ"],
 	    "hi": ["ृ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಋ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೆ": {
 	    "ml": ["െ"],
 	    "hi": ["ॆ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಎ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೇ": {
 	    "ml": ["േ"],
 	    "hi": ["े"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಏ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೈ": {
 	    "ml": ["ൈ"],
 	    "hi": ["ै"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಐ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೊ": {
 	    "ml": ["ൊ"],
 	    "hi": ["ॊ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಒ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೋ": {
 	    "ml": ["ോ"],
 	    "hi": ["ो"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಓ</div>"
+	    },
 	    "type": "signs"
 	},
 	"ೌ": {
 	    "ml": ["ൌ"],
 	    "hi": ["ौ"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಔ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ಂ": {
+	    "ml": ["ം"],
+	    "hi": ["ं"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಅಂ</div>"
+	    },
+	    "type": "signs"
+	},
+	"ಃ": {
+	    "ml": ["ഃ"],
+	    "hi": ["ः"],
+	    "info": {
+		"en": "<div style=\"text-align: center\">Vowel: ಅಃ</div>"
+	    },
 	    "type": "signs"
 	},
 	"್": {
@@ -860,6 +944,7 @@
 	    "isVirama": true
 	},
 	"ಕ್ತ": {
+	    "base": "ತ",
 	    "examples": {
 		"ಭಕ್ತ": {
 		    "en": "devotee",
@@ -875,6 +960,7 @@
 	    "info": {
 		"en": "A half consonant (ಕ್, ಗ್, ತ್ ...) + ತ conjunct is written using the special form of ತ: <br/>Examples: <div style=\"text-align: center\"> ಕ್ + ತ = ಕ್ತ<br/>ಗ್ + ತ = ಗ್ತ<br/>ತ್ + ತ = ತ್ತ</div>"
 	    },
+	    "combine_after": true,
 	    "type": "ligatures"
 	},
 	"ತ್ಸ": {
