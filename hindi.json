@@ -7,10 +7,10 @@
 	    "en": "<h2>Hindi</h2><h3>Ligatures (Joined Letters)</h3><p>In Hindi, many consonants can form a ligature (joined letter) with another consonant. The more common ones are included in the ligatures section.</p>"
 	},
 	"malayalam": {
-	    "en": "<h2>Transliteration to Malayalam</h2><h3>Vowels</h3><h4>എ, ഏ, ഒ, ഓ</h4><p>Hindi does not differentiate between a short and long 'എ'. The app transliterates the Hindi 'ए' and 'ओ' to the Malayalam 'ഏ' and 'ഓ'.</p><h4>ऐ and औ</h4><p>In Hindi, 'ऐ' and 'औ' are usually pronounced softer (closer to 'ए' and 'ओ') than the corresponding characters ('ഐ' and 'ഔ') in Malayalam.</p><h3>Consonants</h3><p>If the last letter in a word is a consonant and its inherent vowel is अ, then that 'अ' is usually not pronounced.<br/>For example, नल is pronounced നൽ (not നല) and नमक is pronounced നമക് (not നമക) without the '-uh' sound of the chandrakkala.</p><h3>Additional Letters</h3><p>Devanagari includes a few additional letters and vowel signs to help write down some sounds commonly found in foreign languages.</p><p>The additional vowel signs are 'ॅ' and 'ॉ'. 'ॅ' is pronounced like the first 'a' in Canada (कॅनडा). 'ॉ' is pronounced like the 'o' in Coffee (कॉफ़ी).</p><p>The additional consonants are 'क़', 'ख़', 'ग़', 'ज़', 'ड़', 'ढ़', 'फ़' and 'य़'. Of these, the more common ones are 'ज़' (pronounced like the English 'z' in zebra), 'ड़', 'फ़' (pronounced like the English 'f' in fan and fit).</p>"
+	    "en": "<h2>Transliteration to Malayalam</h2><h3>Vowels</h3><h4>എ, ഏ, ഒ, ഓ</h4><p>Hindi does not differentiate between a short and long 'എ'. The app transliterates the Hindi 'ए' and 'ओ' to the Malayalam 'ഏ' and 'ഓ'.</p><h4>ऐ and औ</h4><p>In Hindi, 'ऐ' and 'औ' are usually pronounced softer (closer to 'ए' and 'ओ') than the corresponding characters ('ഐ' and 'ഔ') in Malayalam.</p><h3>Consonants</h3><p>If the last letter in a word is a consonant and its inherent vowel is अ, then that 'अ' is usually not pronounced.<br/>For example, नल is pronounced നൽ (not നല) and नमक is pronounced നമക് (not നമക) without the '-uh' sound of the chandrakkala. However, the app does not take this into account while transliterating and does not add a chandrakkala at the end.</p><h3>Additional Letters</h3><p>Devanagari includes a few additional letters and vowel signs to help write down some sounds commonly found in foreign languages.</p><p>The additional vowel signs are 'ॅ' and 'ॉ'. 'ॅ' is pronounced like the first 'a' in Canada (कॅनडा). 'ॉ' is pronounced like the 'o' in Coffee (कॉफ़ी).</p><p>The additional consonants are 'क़', 'ख़', 'ग़', 'ज़', 'ड़', 'ढ़', 'फ़' and 'य़'. Of these, the more common ones are 'ज़' (pronounced like the English 'z' in zebra), 'ड़', 'फ़' (pronounced like the English 'f' in fan and fit).</p>"
 	},
 	"kannada": {
-	    "en": "<h2>Transliteration to Kannada</h2><h3>Vowels</h3><h4>ಎ, ಏ, ಒ, ಓ</h4><p>Hindi does not differentiate between a short and long 'ಎ'. The app transliterates the Hindi 'ए' and 'ओ' to the Kannada 'ಏ' and 'ಓ'.</p><h4>ऐ and औ</h4><p>In Hindi, 'ऐ' and 'औ' are usually pronounced softer (closer to 'ए' and 'ओ') than the corresponding characters ('ಐ' and 'ಔ') in Kannada.</p><h3>Consonants</h3><p>If the last letter in a word is a consonant and its inherent vowel is अ, then that 'अ' is usually not pronounced.<br/>For example, नल is pronounced ನಲ್ (not ನಲ) and नमक is pronounced ನಮಕ್ (not ನಮಕ), both without the '-uh' sound of the virama.</p><h3>Additional Leters</h3><p>Devanagari includes a few additional letters and vowel signs to help write down some sounds commonly found in foreign languages.</p><p>The additional vowel signs are 'ॅ' and 'ॉ'. 'ॅ' is pronounced like the first 'a' in Canada (कॅनडा). 'ॉ' is pronounced like the 'o' in Coffee (कॉफ़ी).</p><p>The additional consonants are 'क़', 'ख़', 'ग़', 'ज़', 'ड़', 'ढ़', 'फ़' and 'य़'. Of these, the more common ones are 'ज़' (pronounced like the English 'z' in zebra), 'ड़', 'फ़' (pronounced like the English 'f' in fan and fit).</p>"
+	    "en": "<h2>Transliteration to Kannada</h2><h3>Vowels</h3><h4>ಎ, ಏ, ಒ, ಓ</h4><p>Hindi does not differentiate between a short and long 'ಎ'. The app transliterates the Hindi 'ए' and 'ओ' to the Kannada 'ಏ' and 'ಓ'.</p><h4>ऐ and औ</h4><p>In Hindi, 'ऐ' and 'औ' are usually pronounced softer (closer to 'ए' and 'ओ') than the corresponding characters ('ಐ' and 'ಔ') in Kannada.</p><h3>Consonants</h3><p>If the last letter in a word is a consonant and its inherent vowel is अ, then that 'अ' is usually not pronounced.<br/>For example, नल is pronounced ನಲ್ (not ನಲ) and नमक is pronounced ನಮಕ್ (not ನಮಕ), both without the '-uh' sound of the virama. However, the app does not take this into account while transliterating and does not add a virama at the end.</p><h3>Additional Leters</h3><p>Devanagari includes a few additional letters and vowel signs to help write down some sounds commonly found in foreign languages.</p><p>The additional vowel signs are 'ॅ' and 'ॉ'. 'ॅ' is pronounced like the first 'a' in Canada (कॅनडा). 'ॉ' is pronounced like the 'o' in Coffee (कॉफ़ी).</p><p>The additional consonants are 'क़', 'ख़', 'ग़', 'ज़', 'ड़', 'ढ़', 'फ़' and 'य़'. Of these, the more common ones are 'ज़' (pronounced like the English 'z' in zebra), 'ड़', 'फ़' (pronounced like the English 'f' in fan and fit).</p>"
 	}
     },
     "virama": "्",
@@ -716,7 +716,7 @@
 	    "ml": ["ീ"],
 	    "ka": ["ೀ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	ई</div>"
+		"en": "<div style=\"text-align: center\">Vowel: ई</div>"
 	    },
 	    "type": "signs"
 	},
@@ -724,7 +724,7 @@
 	    "ml": ["ു"],
 	    "ka": ["ು"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	उ</div>"
+		"en": "<div style=\"text-align: center\">Vowel: उ</div>"
 	    },
 	    "type": "signs"
 	},
@@ -732,7 +732,7 @@
 	    "ml": ["ൂ"],
 	    "ka": ["ೂ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	ऊ</div>"
+		"en": "<div style=\"text-align: center\">Vowel: ऊ</div>"
 	    },
 	    "type": "signs"
 	},
@@ -740,7 +740,7 @@
 	    "ml": ["ൃ"],
 	    "ka": ["ೃ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	ऋ</div>"
+		"en": "<div style=\"text-align: center\">Vowel: ऋ</div>"
 	    },
 	    "type": "signs"
 	},
@@ -748,7 +748,7 @@
 	    "ml": ["േ"],
 	    "ka": ["ೇ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	ए</div>"
+		"en": "<div style=\"text-align: center\">Vowel: ए</div>"
 	    },
 	    "type": "signs"
 	},
@@ -756,7 +756,7 @@
 	    "ml": ["ൈ"],
 	    "ka": ["ೈ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	ऐ</div>"
+		"en": "<div style=\"text-align: center\">Vowel: ऐ</div>"
 	    },
 	    "type": "signs"
 	},
@@ -764,7 +764,7 @@
 	    "ml": ["ൊ"],
 	    "ka": ["ೊ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	ओ</div>"
+		"en": "<div style=\"text-align: center\">Vowel: ओ</div>"
 	    },
 	    "type": "signs"
 	},
@@ -772,7 +772,7 @@
 	    "ml": ["ൗ"],
 	    "ka": ["ೌ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	औ</div>"
+		"en": "<div style=\"text-align: center\">Vowel: औ</div>"
 	    },
 	    "type": "signs"
 	},
@@ -780,7 +780,7 @@
 	    "ml": ["ം"],
 	    "ka": ["ಂ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	अं</div>"
+		"en": "<div style=\"text-align: center\">Vowel: अं</div>"
 	    },
 	    "type": "signs"
 	},
@@ -788,7 +788,7 @@
 	    "ml": ["ഃ"],
 	    "ka": ["ಃ"],
 	    "info": {
-		"en": "<div style=\"text-align: center\">Vowel:	अः</div>"
+		"en": "<div style=\"text-align: center\">Vowel: अः</div>"
 	    },
 	    "type": "signs"
 	},
