@@ -807,6 +807,12 @@
 	    "ka": ["ೋ"],
 	    "type": "signs"
 	},
+	"्": {
+	    "ml": ["്"],
+	    "ka": ["್"],
+	    "isVirama": true,
+	    "type": "signs"
+	},
 	"क्ष": {
 	    "examples": {
 		"कक्षा": {
