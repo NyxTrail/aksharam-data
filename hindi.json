@@ -866,49 +866,49 @@
 	    "type": "ligatures"
 	},
 	"क़": {
-	    "ka": "ಕ",
-	    "ml": "ക",
+	    "ka": ["ಕ"],
+	    "ml": ["ക"],
 	    "type": "ligatures"
 	},
 	"ख़": {
-	    "ka": "ಖ",
-	    "ml": "ഖ",
+	    "ka": ["ಖ"],
+	    "ml": ["ഖ"],
 	    "type": "ligatures"
 	},
 	"ग़": {
-	    "ka": "ಗ",
-	    "ml": "ഗ",
+	    "ka": ["ಗ"],
+	    "ml": ["ഗ"],
 	    "type": "ligatures"
 	},
 	"ज़": {
-	    "ka": "ಸ",
-	    "ml": "സ",
+	    "ka": ["ಸ"],
+	    "ml": ["സ"],
 	    "info": {
 		"en": "ज़ is pronounced like the 'z' in 'zoo', 'zebra', etc."
 	    },
 	    "type": "ligatures"
 	},
 	"ड़": {
-	    "ka": "ಡ",
-	    "ml": "ഡ",
+	    "ka": ["ಡ"],
+	    "ml": ["ഡ"],
 	    "type": "ligatures"
 	},
 	"ढ़": {
-	    "ka": "ಢ",
-	    "ml": "ഢ",
+	    "ka": ["ಢ"],
+	    "ml": ["ഢ"],
 	    "type": "ligatures"
 	},
 	"फ़": {
-	    "ka": "ಫ",
-	    "ml": "ഫ",
+	    "ka": ["ಫ"],
+	    "ml": ["ഫ"],
 	    "info": {
 		"en": "फ़ is pronounced like the 'f' in 'fan', 'fin', 'fit', etc."
 	    },
 	    "type": "ligatures"
 	},
 	"य़": {
-	    "ka": "ಯ",
-	    "ml": "യ",
+	    "ka": ["ಯ"],
+	    "ml": ["യ"],
 	    "type": "ligatures"
 	}
     }   
