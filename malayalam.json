@@ -1371,7 +1371,7 @@
 		}
 	    },
 	    "info": {
-		"en": "<p>The ligature റ്റ (sometimes written as ററ; when written in this form the correct pronounciation has to be determined from the context) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\").</p>"
+		"en": "<div style=\"text-align: center\">റ്റ = റ് + റ</div><p>The ligature റ്റ (sometimes written as ററ; when written in this form the correct pronounciation has to be determined from the context) is pronounced \"ta\" (like the \"ta\" in the English word \"tang\").</p><p>Note, to see what makes up this letter in transliteration, check 'റ' in Letters tab.</p>"
 	    }
 	},
 	"ന്റ": {
@@ -1384,7 +1384,7 @@
 		}
 	    },
 	    "info": {
-		"en": "<p>The Malayalam ligature ന്റ (sometimes written as ൻറ; when written in this form, the correct pronounciation is determined from the context) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p>"
+		"en": "<div style=\"text-align: center\">ന്റ = ന് + റ</div><p>The ligature ന്റ (sometimes written as ൻറ; when written in this form, the correct pronounciation is determined from the context) is pronounced \"nt\" (like the \"nt\" in the English words \"ant\", \"lantern\" and \"lint\" (but not \"hunt\").</p><p>Note, to see what makes up this letter in transliteration, check 'ന' and 'റ' in the letters tab.</p>"
 	    }
 	}
     }
